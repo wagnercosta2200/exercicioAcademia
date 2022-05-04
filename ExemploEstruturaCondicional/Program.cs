@@ -1,8 +1,7 @@
-﻿static void Main(string[] args)
-{
+﻿
     int num;
     Console.WriteLine("Digite um numero: ");
-    num = int.Parse(args[0]);
+    num = int.Parse(Console.ReadLine());
 
     if (num > 0)
     {
@@ -16,4 +15,4 @@
     {
         Console.WriteLine("Zero!");
     }
-}
+
