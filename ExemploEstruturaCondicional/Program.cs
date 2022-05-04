@@ -1,4 +1,4 @@
-﻿static void Main (string[] args)
+﻿static void Main(string[] args)
 {
     int num;
     Console.WriteLine("Digite um numero: ");
@@ -6,6 +6,10 @@
 
     if (num > 0)
     {
-        Console.WriteLine("Positivo");
+        Console.WriteLine("Positivo!");
+    }
+    else
+    {
+        Console.WriteLine("Negativo!");
     }
 }

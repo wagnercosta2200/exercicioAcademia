@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExemploEstruturaCondicional\bin\Debug\net6.0\ExemploEstruturaCondicional.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExemploEstruturaCondicional\bin\Debug\net6.0\ExemploEstruturaCondicional.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExemploEstruturaCondicional\bin\Debug\net6.0\ExemploEstruturaCondicional.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExemploEstruturaCondicional\bin\Debug\net6.0\ExemploEstruturaCondicional.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExemploEstruturaCondicional\bin\Debug\net6.0\ExemploEstruturaCondicional.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExemploEstruturaCondicional\obj\Debug\net6.0\ExemploEstruturaCondicional.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExemploEstruturaCondicional\obj\Debug\net6.0\ExemploEstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExemploEstruturaCondicional\obj\Debug\net6.0\ExemploEstruturaCondicional.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExemploEstruturaCondicional\obj\Debug\net6.0\ExemploEstruturaCondicional.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExemploEstruturaCondicional\obj\Debug\net6.0\ExemploEstruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExemploEstruturaCondicional\obj\Debug\net6.0\ExemploEstruturaCondicional.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExemploEstruturaCondicional\obj\Debug\net6.0\refint\ExemploEstruturaCondicional.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExemploEstruturaCondicional\obj\Debug\net6.0\ExemploEstruturaCondicional.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExemploEstruturaCondicional\obj\Debug\net6.0\ExemploEstruturaCondicional.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExemploEstruturaCondicional\obj\Debug\net6.0\ref\ExemploEstruturaCondicional.dll
