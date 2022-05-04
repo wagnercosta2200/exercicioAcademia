@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\InformarDivisao\obj\Debug\net6.0\InformarDivisao.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\InformarDivisao\obj\Debug\net6.0\InformarDivisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\InformarDivisao\obj\Debug\net6.0\InformarDivisao.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\InformarDivisao\obj\Debug\net6.0\InformarDivisao.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\InformarDivisao\obj\Debug\net6.0\InformarDivisao.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\InformarDivisao\bin\Debug\net6.0\InformarDivisao.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\InformarDivisao\bin\Debug\net6.0\InformarDivisao.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\InformarDivisao\bin\Debug\net6.0\InformarDivisao.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\InformarDivisao\bin\Debug\net6.0\InformarDivisao.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\InformarDivisao\bin\Debug\net6.0\InformarDivisao.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\InformarDivisao\obj\Debug\net6.0\InformarDivisao.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\InformarDivisao\obj\Debug\net6.0\refint\InformarDivisao.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\InformarDivisao\obj\Debug\net6.0\InformarDivisao.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\InformarDivisao\obj\Debug\net6.0\InformarDivisao.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\InformarDivisao\obj\Debug\net6.0\ref\InformarDivisao.dll
