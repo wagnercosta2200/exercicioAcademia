@@ -8,8 +8,12 @@
     {
         Console.WriteLine("Positivo!");
     }
-    else
+    else if (num < 0)
     {
         Console.WriteLine("Negativo!");
+    }
+    else
+    {
+        Console.WriteLine("Zero!");
     }
 }
