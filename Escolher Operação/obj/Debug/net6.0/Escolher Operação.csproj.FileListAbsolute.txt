@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Escolher Operação\bin\Debug\net6.0\Escolher Operação.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Escolher Operação\bin\Debug\net6.0\Escolher Operação.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Escolher Operação\bin\Debug\net6.0\Escolher Operação.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Escolher Operação\bin\Debug\net6.0\Escolher Operação.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Escolher Operação\bin\Debug\net6.0\Escolher Operação.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Escolher Operação\obj\Debug\net6.0\Escolher Operação.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Escolher Operação\obj\Debug\net6.0\Escolher Operação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Escolher Operação\obj\Debug\net6.0\Escolher Operação.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Escolher Operação\obj\Debug\net6.0\Escolher Operação.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Escolher Operação\obj\Debug\net6.0\Escolher Operação.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Escolher Operação\obj\Debug\net6.0\Escolher Operação.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Escolher Operação\obj\Debug\net6.0\refint\Escolher Operação.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Escolher Operação\obj\Debug\net6.0\Escolher Operação.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Escolher Operação\obj\Debug\net6.0\Escolher Operação.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Escolher Operação\obj\Debug\net6.0\ref\Escolher Operação.dll
