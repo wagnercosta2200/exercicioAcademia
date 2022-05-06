@@ -19,6 +19,5 @@ valorCompras = quantidadeLatas * 80;//a lata custa R$ 80,00
 Console.WriteLine("A quantidade de tinta para cobrir a área é de :"+ quantidadeTinta + " Litros");
 Console.WriteLine("A quantidade de latas de 18 litros para cobrir a área é de :" + quantidadeLatas);
 Console.WriteLine("O valor total a ser gasto é de :" + valorCompras);
-{
 
-}
+
