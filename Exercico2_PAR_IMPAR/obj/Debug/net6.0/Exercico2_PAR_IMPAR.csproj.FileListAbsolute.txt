@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercico2_PAR_IMPAR\obj\Debug\net6.0\Exercico2_PAR_IMPAR.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercico2_PAR_IMPAR\obj\Debug\net6.0\Exercico2_PAR_IMPAR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercico2_PAR_IMPAR\obj\Debug\net6.0\Exercico2_PAR_IMPAR.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercico2_PAR_IMPAR\obj\Debug\net6.0\Exercico2_PAR_IMPAR.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercico2_PAR_IMPAR\obj\Debug\net6.0\Exercico2_PAR_IMPAR.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercico2_PAR_IMPAR\bin\Debug\net6.0\Exercico2_PAR_IMPAR.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercico2_PAR_IMPAR\bin\Debug\net6.0\Exercico2_PAR_IMPAR.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercico2_PAR_IMPAR\bin\Debug\net6.0\Exercico2_PAR_IMPAR.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercico2_PAR_IMPAR\bin\Debug\net6.0\Exercico2_PAR_IMPAR.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercico2_PAR_IMPAR\bin\Debug\net6.0\Exercico2_PAR_IMPAR.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercico2_PAR_IMPAR\obj\Debug\net6.0\Exercico2_PAR_IMPAR.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercico2_PAR_IMPAR\obj\Debug\net6.0\refint\Exercico2_PAR_IMPAR.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercico2_PAR_IMPAR\obj\Debug\net6.0\Exercico2_PAR_IMPAR.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercico2_PAR_IMPAR\obj\Debug\net6.0\Exercico2_PAR_IMPAR.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercico2_PAR_IMPAR\obj\Debug\net6.0\ref\Exercico2_PAR_IMPAR.dll

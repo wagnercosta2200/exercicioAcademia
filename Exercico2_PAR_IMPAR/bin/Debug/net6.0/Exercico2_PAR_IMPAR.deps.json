@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercico2_PAR_IMPAR/1.0.0": {
+        "runtime": {
+          "Exercico2_PAR_IMPAR.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercico2_PAR_IMPAR/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
