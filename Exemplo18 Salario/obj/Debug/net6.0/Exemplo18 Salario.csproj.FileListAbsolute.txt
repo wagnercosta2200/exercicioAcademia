@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo18 Salario\obj\Debug\net6.0\Exemplo18 Salario.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo18 Salario\obj\Debug\net6.0\Exemplo18 Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo18 Salario\obj\Debug\net6.0\Exemplo18 Salario.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo18 Salario\obj\Debug\net6.0\Exemplo18 Salario.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo18 Salario\obj\Debug\net6.0\Exemplo18 Salario.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo18 Salario\bin\Debug\net6.0\Exemplo18 Salario.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo18 Salario\bin\Debug\net6.0\Exemplo18 Salario.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo18 Salario\bin\Debug\net6.0\Exemplo18 Salario.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo18 Salario\bin\Debug\net6.0\Exemplo18 Salario.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo18 Salario\bin\Debug\net6.0\Exemplo18 Salario.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo18 Salario\obj\Debug\net6.0\Exemplo18 Salario.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo18 Salario\obj\Debug\net6.0\refint\Exemplo18 Salario.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo18 Salario\obj\Debug\net6.0\Exemplo18 Salario.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo18 Salario\obj\Debug\net6.0\Exemplo18 Salario.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo18 Salario\obj\Debug\net6.0\ref\Exemplo18 Salario.dll
