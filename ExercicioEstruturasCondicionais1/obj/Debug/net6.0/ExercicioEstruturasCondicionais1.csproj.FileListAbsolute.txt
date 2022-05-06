@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExercicioEstruturasCondicionais1\bin\Debug\net6.0\ExercicioEstruturasCondicionais1.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExercicioEstruturasCondicionais1\bin\Debug\net6.0\ExercicioEstruturasCondicionais1.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExercicioEstruturasCondicionais1\bin\Debug\net6.0\ExercicioEstruturasCondicionais1.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExercicioEstruturasCondicionais1\bin\Debug\net6.0\ExercicioEstruturasCondicionais1.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExercicioEstruturasCondicionais1\bin\Debug\net6.0\ExercicioEstruturasCondicionais1.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExercicioEstruturasCondicionais1\obj\Debug\net6.0\ExercicioEstruturasCondicionais1.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExercicioEstruturasCondicionais1\obj\Debug\net6.0\ExercicioEstruturasCondicionais1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExercicioEstruturasCondicionais1\obj\Debug\net6.0\ExercicioEstruturasCondicionais1.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExercicioEstruturasCondicionais1\obj\Debug\net6.0\ExercicioEstruturasCondicionais1.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExercicioEstruturasCondicionais1\obj\Debug\net6.0\ExercicioEstruturasCondicionais1.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExercicioEstruturasCondicionais1\obj\Debug\net6.0\ExercicioEstruturasCondicionais1.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExercicioEstruturasCondicionais1\obj\Debug\net6.0\refint\ExercicioEstruturasCondicionais1.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExercicioEstruturasCondicionais1\obj\Debug\net6.0\ExercicioEstruturasCondicionais1.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExercicioEstruturasCondicionais1\obj\Debug\net6.0\ExercicioEstruturasCondicionais1.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\ExercicioEstruturasCondicionais1\obj\Debug\net6.0\ref\ExercicioEstruturasCondicionais1.dll
