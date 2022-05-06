@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio6_IMC\bin\Debug\net6.0\Exercicio6_IMC.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio6_IMC\bin\Debug\net6.0\Exercicio6_IMC.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio6_IMC\bin\Debug\net6.0\Exercicio6_IMC.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio6_IMC\bin\Debug\net6.0\Exercicio6_IMC.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio6_IMC\bin\Debug\net6.0\Exercicio6_IMC.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio6_IMC\obj\Debug\net6.0\Exercicio6_IMC.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio6_IMC\obj\Debug\net6.0\Exercicio6_IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio6_IMC\obj\Debug\net6.0\Exercicio6_IMC.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio6_IMC\obj\Debug\net6.0\Exercicio6_IMC.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio6_IMC\obj\Debug\net6.0\Exercicio6_IMC.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio6_IMC\obj\Debug\net6.0\Exercicio6_IMC.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio6_IMC\obj\Debug\net6.0\refint\Exercicio6_IMC.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio6_IMC\obj\Debug\net6.0\Exercicio6_IMC.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio6_IMC\obj\Debug\net6.0\Exercicio6_IMC.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio6_IMC\obj\Debug\net6.0\ref\Exercicio6_IMC.dll

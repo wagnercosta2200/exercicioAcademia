@@ -2,10 +2,14 @@
 Console.WriteLine("15 - Faça um programa para uma loja de tintas.\n" + "O programa deverá pedir o tamanho em metros quadrados da área a ser pintada.\n" + "Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadradose que a tinta é vendida em latas de 18 litros, que custam R$ 80, 00.\n" +" Informe ao usuário a quantidades de latas de tinta a serem compradas e o preço total.");
 
 /// <summary>
-/// Variaveis 
+/// Variaveis entrada
 /// </summary>
 float tamanhoArea;
 float quantidadeTinta;
+
+/// <summary>
+/// Variaveis de saida
+/// </summary>
 int quantidadeLatas;
 float valorCompras;
 

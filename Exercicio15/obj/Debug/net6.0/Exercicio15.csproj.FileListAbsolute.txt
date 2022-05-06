@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio15\bin\Debug\net6.0\Exercicio15.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio15\bin\Debug\net6.0\Exercicio15.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio15\bin\Debug\net6.0\Exercicio15.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio15\bin\Debug\net6.0\Exercicio15.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio15\bin\Debug\net6.0\Exercicio15.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio15\obj\Debug\net6.0\Exercicio15.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio15\obj\Debug\net6.0\Exercicio15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio15\obj\Debug\net6.0\Exercicio15.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio15\obj\Debug\net6.0\Exercicio15.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio15\obj\Debug\net6.0\Exercicio15.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio15\obj\Debug\net6.0\Exercicio15.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio15\obj\Debug\net6.0\refint\Exercicio15.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio15\obj\Debug\net6.0\Exercicio15.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio15\obj\Debug\net6.0\Exercicio15.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio15\obj\Debug\net6.0\ref\Exercicio15.dll
