@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio10 Nome Idade Altura\bin\Debug\net6.0\Exercicio10 Nome Idade Altura.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio10 Nome Idade Altura\bin\Debug\net6.0\Exercicio10 Nome Idade Altura.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio10 Nome Idade Altura\bin\Debug\net6.0\Exercicio10 Nome Idade Altura.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio10 Nome Idade Altura\bin\Debug\net6.0\Exercicio10 Nome Idade Altura.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio10 Nome Idade Altura\bin\Debug\net6.0\Exercicio10 Nome Idade Altura.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio10 Nome Idade Altura\obj\Debug\net6.0\Exercicio10 Nome Idade Altura.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio10 Nome Idade Altura\obj\Debug\net6.0\Exercicio10 Nome Idade Altura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio10 Nome Idade Altura\obj\Debug\net6.0\Exercicio10 Nome Idade Altura.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio10 Nome Idade Altura\obj\Debug\net6.0\Exercicio10 Nome Idade Altura.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio10 Nome Idade Altura\obj\Debug\net6.0\Exercicio10 Nome Idade Altura.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio10 Nome Idade Altura\obj\Debug\net6.0\Exercicio10 Nome Idade Altura.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio10 Nome Idade Altura\obj\Debug\net6.0\refint\Exercicio10 Nome Idade Altura.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio10 Nome Idade Altura\obj\Debug\net6.0\Exercicio10 Nome Idade Altura.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio10 Nome Idade Altura\obj\Debug\net6.0\Exercicio10 Nome Idade Altura.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio10 Nome Idade Altura\obj\Debug\net6.0\ref\Exercicio10 Nome Idade Altura.dll
