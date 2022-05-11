@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio9_Glicemia\bin\Debug\net6.0\Exercicio9_Glicemia.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio9_Glicemia\bin\Debug\net6.0\Exercicio9_Glicemia.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio9_Glicemia\bin\Debug\net6.0\Exercicio9_Glicemia.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio9_Glicemia\bin\Debug\net6.0\Exercicio9_Glicemia.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio9_Glicemia\bin\Debug\net6.0\Exercicio9_Glicemia.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio9_Glicemia\obj\Debug\net6.0\Exercicio9_Glicemia.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio9_Glicemia\obj\Debug\net6.0\Exercicio9_Glicemia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio9_Glicemia\obj\Debug\net6.0\Exercicio9_Glicemia.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio9_Glicemia\obj\Debug\net6.0\Exercicio9_Glicemia.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio9_Glicemia\obj\Debug\net6.0\Exercicio9_Glicemia.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio9_Glicemia\obj\Debug\net6.0\Exercicio9_Glicemia.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio9_Glicemia\obj\Debug\net6.0\refint\Exercicio9_Glicemia.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio9_Glicemia\obj\Debug\net6.0\Exercicio9_Glicemia.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio9_Glicemia\obj\Debug\net6.0\Exercicio9_Glicemia.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exercicio9_Glicemia\obj\Debug\net6.0\ref\Exercicio9_Glicemia.dll
