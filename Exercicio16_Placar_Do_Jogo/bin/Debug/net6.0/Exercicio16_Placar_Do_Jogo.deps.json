@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercicio16_Placar_Do_Jogo/1.0.0": {
+        "runtime": {
+          "Exercicio16_Placar_Do_Jogo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio16_Placar_Do_Jogo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
