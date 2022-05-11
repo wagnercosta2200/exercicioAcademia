@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Estrutura_Repetição_FOR\bin\Debug\net6.0\Estrutura_Repetição_FOR.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Estrutura_Repetição_FOR\bin\Debug\net6.0\Estrutura_Repetição_FOR.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Estrutura_Repetição_FOR\bin\Debug\net6.0\Estrutura_Repetição_FOR.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Estrutura_Repetição_FOR\bin\Debug\net6.0\Estrutura_Repetição_FOR.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Estrutura_Repetição_FOR\bin\Debug\net6.0\Estrutura_Repetição_FOR.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Estrutura_Repetição_FOR\obj\Debug\net6.0\Estrutura_Repetição_FOR.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Estrutura_Repetição_FOR\obj\Debug\net6.0\Estrutura_Repetição_FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Estrutura_Repetição_FOR\obj\Debug\net6.0\Estrutura_Repetição_FOR.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Estrutura_Repetição_FOR\obj\Debug\net6.0\Estrutura_Repetição_FOR.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Estrutura_Repetição_FOR\obj\Debug\net6.0\Estrutura_Repetição_FOR.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Estrutura_Repetição_FOR\obj\Debug\net6.0\Estrutura_Repetição_FOR.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Estrutura_Repetição_FOR\obj\Debug\net6.0\refint\Estrutura_Repetição_FOR.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Estrutura_Repetição_FOR\obj\Debug\net6.0\Estrutura_Repetição_FOR.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Estrutura_Repetição_FOR\obj\Debug\net6.0\Estrutura_Repetição_FOR.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Estrutura_Repetição_FOR\obj\Debug\net6.0\ref\Estrutura_Repetição_FOR.dll
