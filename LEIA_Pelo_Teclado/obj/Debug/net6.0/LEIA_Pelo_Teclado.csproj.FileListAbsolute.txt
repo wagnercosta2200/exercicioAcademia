@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\LEIA_Pelo_Teclado\obj\Debug\net6.0\LEIA_Pelo_Teclado.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\LEIA_Pelo_Teclado\obj\Debug\net6.0\LEIA_Pelo_Teclado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\LEIA_Pelo_Teclado\obj\Debug\net6.0\LEIA_Pelo_Teclado.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\LEIA_Pelo_Teclado\obj\Debug\net6.0\LEIA_Pelo_Teclado.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\LEIA_Pelo_Teclado\obj\Debug\net6.0\LEIA_Pelo_Teclado.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\LEIA_Pelo_Teclado\bin\Debug\net6.0\LEIA_Pelo_Teclado.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\LEIA_Pelo_Teclado\bin\Debug\net6.0\LEIA_Pelo_Teclado.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\LEIA_Pelo_Teclado\bin\Debug\net6.0\LEIA_Pelo_Teclado.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\LEIA_Pelo_Teclado\bin\Debug\net6.0\LEIA_Pelo_Teclado.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\LEIA_Pelo_Teclado\bin\Debug\net6.0\LEIA_Pelo_Teclado.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\LEIA_Pelo_Teclado\obj\Debug\net6.0\LEIA_Pelo_Teclado.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\LEIA_Pelo_Teclado\obj\Debug\net6.0\refint\LEIA_Pelo_Teclado.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\LEIA_Pelo_Teclado\obj\Debug\net6.0\LEIA_Pelo_Teclado.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\LEIA_Pelo_Teclado\obj\Debug\net6.0\LEIA_Pelo_Teclado.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\LEIA_Pelo_Teclado\obj\Debug\net6.0\ref\LEIA_Pelo_Teclado.dll
