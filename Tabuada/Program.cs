@@ -11,6 +11,8 @@ for ( i = 0; i <= 10; i++)
 {
     //r = i * n;
     //Console.WriteLine(i + " x " + n +" = " +r);
-    Console.WriteLine(i + " x " + n + " = " + i*n);
+   // Console.WriteLine(i + " x " + n + " = " + i*n);
+
+    Console.WriteLine($"{n} x {i} = {i*n}");
 }
 
