@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EcrevaAlgoritmoPulando_X_X\bin\Debug\net6.0\EcrevaAlgoritmoPulando_X_X.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EcrevaAlgoritmoPulando_X_X\bin\Debug\net6.0\EcrevaAlgoritmoPulando_X_X.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EcrevaAlgoritmoPulando_X_X\bin\Debug\net6.0\EcrevaAlgoritmoPulando_X_X.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EcrevaAlgoritmoPulando_X_X\bin\Debug\net6.0\EcrevaAlgoritmoPulando_X_X.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EcrevaAlgoritmoPulando_X_X\bin\Debug\net6.0\EcrevaAlgoritmoPulando_X_X.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EcrevaAlgoritmoPulando_X_X\obj\Debug\net6.0\EcrevaAlgoritmoPulando_X_X.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EcrevaAlgoritmoPulando_X_X\obj\Debug\net6.0\EcrevaAlgoritmoPulando_X_X.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EcrevaAlgoritmoPulando_X_X\obj\Debug\net6.0\EcrevaAlgoritmoPulando_X_X.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EcrevaAlgoritmoPulando_X_X\obj\Debug\net6.0\EcrevaAlgoritmoPulando_X_X.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EcrevaAlgoritmoPulando_X_X\obj\Debug\net6.0\EcrevaAlgoritmoPulando_X_X.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EcrevaAlgoritmoPulando_X_X\obj\Debug\net6.0\EcrevaAlgoritmoPulando_X_X.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EcrevaAlgoritmoPulando_X_X\obj\Debug\net6.0\refint\EcrevaAlgoritmoPulando_X_X.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EcrevaAlgoritmoPulando_X_X\obj\Debug\net6.0\EcrevaAlgoritmoPulando_X_X.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EcrevaAlgoritmoPulando_X_X\obj\Debug\net6.0\EcrevaAlgoritmoPulando_X_X.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EcrevaAlgoritmoPulando_X_X\obj\Debug\net6.0\ref\EcrevaAlgoritmoPulando_X_X.dll
