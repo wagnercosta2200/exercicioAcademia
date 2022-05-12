@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo_de_Repeticao_Letras\bin\Debug\net6.0\Exemplo_de_Repeticao_Letras.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo_de_Repeticao_Letras\bin\Debug\net6.0\Exemplo_de_Repeticao_Letras.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo_de_Repeticao_Letras\bin\Debug\net6.0\Exemplo_de_Repeticao_Letras.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo_de_Repeticao_Letras\bin\Debug\net6.0\Exemplo_de_Repeticao_Letras.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo_de_Repeticao_Letras\bin\Debug\net6.0\Exemplo_de_Repeticao_Letras.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo_de_Repeticao_Letras\obj\Debug\net6.0\Exemplo_de_Repeticao_Letras.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo_de_Repeticao_Letras\obj\Debug\net6.0\Exemplo_de_Repeticao_Letras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo_de_Repeticao_Letras\obj\Debug\net6.0\Exemplo_de_Repeticao_Letras.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo_de_Repeticao_Letras\obj\Debug\net6.0\Exemplo_de_Repeticao_Letras.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo_de_Repeticao_Letras\obj\Debug\net6.0\Exemplo_de_Repeticao_Letras.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo_de_Repeticao_Letras\obj\Debug\net6.0\Exemplo_de_Repeticao_Letras.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo_de_Repeticao_Letras\obj\Debug\net6.0\refint\Exemplo_de_Repeticao_Letras.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo_de_Repeticao_Letras\obj\Debug\net6.0\Exemplo_de_Repeticao_Letras.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo_de_Repeticao_Letras\obj\Debug\net6.0\Exemplo_de_Repeticao_Letras.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Exemplo_de_Repeticao_Letras\obj\Debug\net6.0\ref\Exemplo_de_Repeticao_Letras.dll
