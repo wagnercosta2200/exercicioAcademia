@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Valores_de_Glicemia_validos\bin\Debug\net6.0\Valores_de_Glicemia_validos.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Valores_de_Glicemia_validos\bin\Debug\net6.0\Valores_de_Glicemia_validos.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Valores_de_Glicemia_validos\bin\Debug\net6.0\Valores_de_Glicemia_validos.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Valores_de_Glicemia_validos\bin\Debug\net6.0\Valores_de_Glicemia_validos.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Valores_de_Glicemia_validos\bin\Debug\net6.0\Valores_de_Glicemia_validos.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Valores_de_Glicemia_validos\obj\Debug\net6.0\Valores_de_Glicemia_validos.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Valores_de_Glicemia_validos\obj\Debug\net6.0\Valores_de_Glicemia_validos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Valores_de_Glicemia_validos\obj\Debug\net6.0\Valores_de_Glicemia_validos.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Valores_de_Glicemia_validos\obj\Debug\net6.0\Valores_de_Glicemia_validos.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Valores_de_Glicemia_validos\obj\Debug\net6.0\Valores_de_Glicemia_validos.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Valores_de_Glicemia_validos\obj\Debug\net6.0\Valores_de_Glicemia_validos.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Valores_de_Glicemia_validos\obj\Debug\net6.0\refint\Valores_de_Glicemia_validos.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Valores_de_Glicemia_validos\obj\Debug\net6.0\Valores_de_Glicemia_validos.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Valores_de_Glicemia_validos\obj\Debug\net6.0\Valores_de_Glicemia_validos.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Valores_de_Glicemia_validos\obj\Debug\net6.0\ref\Valores_de_Glicemia_validos.dll
