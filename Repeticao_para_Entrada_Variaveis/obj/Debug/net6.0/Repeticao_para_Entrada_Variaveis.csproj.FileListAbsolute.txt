@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Repeticao_para_Entrada_Variaveis\bin\Debug\net6.0\Repeticao_para_Entrada_Variaveis.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Repeticao_para_Entrada_Variaveis\bin\Debug\net6.0\Repeticao_para_Entrada_Variaveis.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Repeticao_para_Entrada_Variaveis\bin\Debug\net6.0\Repeticao_para_Entrada_Variaveis.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Repeticao_para_Entrada_Variaveis\bin\Debug\net6.0\Repeticao_para_Entrada_Variaveis.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Repeticao_para_Entrada_Variaveis\bin\Debug\net6.0\Repeticao_para_Entrada_Variaveis.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Repeticao_para_Entrada_Variaveis\obj\Debug\net6.0\Repeticao_para_Entrada_Variaveis.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Repeticao_para_Entrada_Variaveis\obj\Debug\net6.0\Repeticao_para_Entrada_Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Repeticao_para_Entrada_Variaveis\obj\Debug\net6.0\Repeticao_para_Entrada_Variaveis.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Repeticao_para_Entrada_Variaveis\obj\Debug\net6.0\Repeticao_para_Entrada_Variaveis.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Repeticao_para_Entrada_Variaveis\obj\Debug\net6.0\Repeticao_para_Entrada_Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Repeticao_para_Entrada_Variaveis\obj\Debug\net6.0\Repeticao_para_Entrada_Variaveis.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Repeticao_para_Entrada_Variaveis\obj\Debug\net6.0\refint\Repeticao_para_Entrada_Variaveis.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Repeticao_para_Entrada_Variaveis\obj\Debug\net6.0\Repeticao_para_Entrada_Variaveis.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Repeticao_para_Entrada_Variaveis\obj\Debug\net6.0\Repeticao_para_Entrada_Variaveis.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Repeticao_para_Entrada_Variaveis\obj\Debug\net6.0\ref\Repeticao_para_Entrada_Variaveis.dll

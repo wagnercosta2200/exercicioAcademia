@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repeticao_para_Entrada_Variaveis", "Repeticao_para_Entrada_Variaveis.csproj", "{6297FC8B-9A01-44AA-8F4A-D32E028F2834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6297FC8B-9A01-44AA-8F4A-D32E028F2834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6297FC8B-9A01-44AA-8F4A-D32E028F2834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6297FC8B-9A01-44AA-8F4A-D32E028F2834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6297FC8B-9A01-44AA-8F4A-D32E028F2834}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {972B7F17-5B93-4784-A2E3-BAF8B02BBC23}
+	EndGlobalSection
+EndGlobal
