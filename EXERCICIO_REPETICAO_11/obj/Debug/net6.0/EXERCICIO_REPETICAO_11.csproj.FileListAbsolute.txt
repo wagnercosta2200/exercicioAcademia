@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EXERCICIO_REPETICAO_11\bin\Debug\net6.0\EXERCICIO_REPETICAO_11.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EXERCICIO_REPETICAO_11\bin\Debug\net6.0\EXERCICIO_REPETICAO_11.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EXERCICIO_REPETICAO_11\bin\Debug\net6.0\EXERCICIO_REPETICAO_11.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EXERCICIO_REPETICAO_11\bin\Debug\net6.0\EXERCICIO_REPETICAO_11.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EXERCICIO_REPETICAO_11\bin\Debug\net6.0\EXERCICIO_REPETICAO_11.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EXERCICIO_REPETICAO_11\obj\Debug\net6.0\EXERCICIO_REPETICAO_11.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EXERCICIO_REPETICAO_11\obj\Debug\net6.0\EXERCICIO_REPETICAO_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EXERCICIO_REPETICAO_11\obj\Debug\net6.0\EXERCICIO_REPETICAO_11.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EXERCICIO_REPETICAO_11\obj\Debug\net6.0\EXERCICIO_REPETICAO_11.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EXERCICIO_REPETICAO_11\obj\Debug\net6.0\EXERCICIO_REPETICAO_11.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EXERCICIO_REPETICAO_11\obj\Debug\net6.0\EXERCICIO_REPETICAO_11.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EXERCICIO_REPETICAO_11\obj\Debug\net6.0\refint\EXERCICIO_REPETICAO_11.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EXERCICIO_REPETICAO_11\obj\Debug\net6.0\EXERCICIO_REPETICAO_11.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EXERCICIO_REPETICAO_11\obj\Debug\net6.0\EXERCICIO_REPETICAO_11.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\EXERCICIO_REPETICAO_11\obj\Debug\net6.0\ref\EXERCICIO_REPETICAO_11.dll
