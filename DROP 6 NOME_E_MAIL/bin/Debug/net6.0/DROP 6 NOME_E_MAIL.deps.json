@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DROP 6 NOME_E_MAIL/1.0.0": {
+        "runtime": {
+          "DROP 6 NOME_E_MAIL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DROP 6 NOME_E_MAIL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
