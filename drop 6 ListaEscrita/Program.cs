@@ -5,7 +5,7 @@ using Drop6_listaArquivoEscrita;
 string opcao = "";
 string nomeArquivo = "emails.dat"; //texto puro -> plain text
 StreamWriter escritor = new StreamWriter(nomeArquivo, true); //abre o arquivo para escrita e com append
-List<Pessoas> listaPessoas = new List<Pessoas>();
+List<Pessoas> listaPessoa = new List<Pessoas>();
 
 do
 {
