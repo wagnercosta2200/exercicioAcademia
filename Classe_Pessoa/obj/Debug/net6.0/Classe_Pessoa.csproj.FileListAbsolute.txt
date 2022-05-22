@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Pessoa\bin\Debug\net6.0\Classe_Pessoa.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Pessoa\bin\Debug\net6.0\Classe_Pessoa.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Pessoa\bin\Debug\net6.0\Classe_Pessoa.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Pessoa\bin\Debug\net6.0\Classe_Pessoa.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Pessoa\bin\Debug\net6.0\Classe_Pessoa.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Pessoa\obj\Debug\net6.0\Classe_Pessoa.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Pessoa\obj\Debug\net6.0\Classe_Pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Pessoa\obj\Debug\net6.0\Classe_Pessoa.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Pessoa\obj\Debug\net6.0\Classe_Pessoa.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Pessoa\obj\Debug\net6.0\Classe_Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Pessoa\obj\Debug\net6.0\Classe_Pessoa.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Pessoa\obj\Debug\net6.0\refint\Classe_Pessoa.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Pessoa\obj\Debug\net6.0\Classe_Pessoa.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Pessoa\obj\Debug\net6.0\Classe_Pessoa.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Pessoa\obj\Debug\net6.0\ref\Classe_Pessoa.dll

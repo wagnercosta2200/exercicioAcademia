@@ -7,10 +7,16 @@ Console.WriteLine("Vamos adicionar um carro na classe?");
 
 Console.WriteLine("Modelo: ");
 modelo = Console.ReadLine().ToUpper();
+Console.WriteLine();
+
 Console.WriteLine("Marca: ");
 marca = Console.ReadLine().ToUpper();
+Console.WriteLine();
+
 Console.WriteLine("Cor: ");
 cor = Console.ReadLine().ToUpper();
+Console.WriteLine();
+
 Console.WriteLine("Placa: ");
 placa = Console.ReadLine().ToUpper();
 
