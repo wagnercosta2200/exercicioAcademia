@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Carro\bin\Debug\net6.0\Classe_Carro.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Carro\bin\Debug\net6.0\Classe_Carro.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Carro\bin\Debug\net6.0\Classe_Carro.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Carro\bin\Debug\net6.0\Classe_Carro.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Carro\bin\Debug\net6.0\Classe_Carro.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Carro\obj\Debug\net6.0\Classe_Carro.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Carro\obj\Debug\net6.0\Classe_Carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Carro\obj\Debug\net6.0\Classe_Carro.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Carro\obj\Debug\net6.0\Classe_Carro.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Carro\obj\Debug\net6.0\Classe_Carro.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Carro\obj\Debug\net6.0\Classe_Carro.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Carro\obj\Debug\net6.0\refint\Classe_Carro.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Carro\obj\Debug\net6.0\Classe_Carro.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Carro\obj\Debug\net6.0\Classe_Carro.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Classe_Carro\obj\Debug\net6.0\ref\Classe_Carro.dll
