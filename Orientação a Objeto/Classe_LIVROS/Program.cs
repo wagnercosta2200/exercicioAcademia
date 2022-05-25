@@ -1,6 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Classe Livros");
-
 
 using ClasseLivro;
 
@@ -19,5 +17,3 @@ Console.WriteLine("Digite a edição do livro: ");
 ed = int.Parse(Console.ReadLine());
 Livro l1 = new Livro(t, a, pag, ano, ed);
 l1.apresentaInfoLivro();
-
-

@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Classe_LIVROS\obj\Debug\net6.0\Classe_LIVROS.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Classe_LIVROS\obj\Debug\net6.0\Classe_LIVROS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Classe_LIVROS\obj\Debug\net6.0\Classe_LIVROS.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Classe_LIVROS\obj\Debug\net6.0\Classe_LIVROS.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Classe_LIVROS\obj\Debug\net6.0\Classe_LIVROS.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Classe_LIVROS\bin\Debug\net6.0\Classe_LIVROS.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Classe_LIVROS\bin\Debug\net6.0\Classe_LIVROS.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Classe_LIVROS\bin\Debug\net6.0\Classe_LIVROS.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Classe_LIVROS\bin\Debug\net6.0\Classe_LIVROS.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Classe_LIVROS\bin\Debug\net6.0\Classe_LIVROS.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Classe_LIVROS\obj\Debug\net6.0\Classe_LIVROS.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Classe_LIVROS\obj\Debug\net6.0\refint\Classe_LIVROS.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Classe_LIVROS\obj\Debug\net6.0\Classe_LIVROS.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Classe_LIVROS\obj\Debug\net6.0\Classe_LIVROS.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Classe_LIVROS\obj\Debug\net6.0\ref\Classe_LIVROS.dll
