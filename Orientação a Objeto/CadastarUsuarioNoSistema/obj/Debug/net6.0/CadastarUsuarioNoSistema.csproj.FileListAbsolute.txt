@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\CadastarUsuarioNoSistema\obj\Debug\net6.0\CadastarUsuarioNoSistema.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\CadastarUsuarioNoSistema\obj\Debug\net6.0\CadastarUsuarioNoSistema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\CadastarUsuarioNoSistema\obj\Debug\net6.0\CadastarUsuarioNoSistema.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\CadastarUsuarioNoSistema\obj\Debug\net6.0\CadastarUsuarioNoSistema.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\CadastarUsuarioNoSistema\obj\Debug\net6.0\CadastarUsuarioNoSistema.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\CadastarUsuarioNoSistema\bin\Debug\net6.0\CadastarUsuarioNoSistema.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\CadastarUsuarioNoSistema\bin\Debug\net6.0\CadastarUsuarioNoSistema.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\CadastarUsuarioNoSistema\bin\Debug\net6.0\CadastarUsuarioNoSistema.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\CadastarUsuarioNoSistema\bin\Debug\net6.0\CadastarUsuarioNoSistema.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\CadastarUsuarioNoSistema\bin\Debug\net6.0\CadastarUsuarioNoSistema.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\CadastarUsuarioNoSistema\obj\Debug\net6.0\CadastarUsuarioNoSistema.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\CadastarUsuarioNoSistema\obj\Debug\net6.0\refint\CadastarUsuarioNoSistema.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\CadastarUsuarioNoSistema\obj\Debug\net6.0\CadastarUsuarioNoSistema.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\CadastarUsuarioNoSistema\obj\Debug\net6.0\CadastarUsuarioNoSistema.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\CadastarUsuarioNoSistema\obj\Debug\net6.0\ref\CadastarUsuarioNoSistema.dll
