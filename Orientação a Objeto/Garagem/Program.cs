@@ -38,8 +38,8 @@ do
 {
     Console.Clear();
 
-    DateTime dataTeste = DateTime.Now;
-    Console.WriteLine(dataTeste.ToString());
+    DateTime data = DateTime.Now;
+    Console.WriteLine(data.ToString());
 
     Console.WriteLine("MENU");
     Console.WriteLine();

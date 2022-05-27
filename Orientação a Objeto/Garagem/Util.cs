@@ -13,7 +13,7 @@ namespace Garagem
             Console.WriteLine(frase);
             foreach (Veiculo i in lista)
             {
-                Console.WriteLine(i.Placa + " - " + i.DataHoraEntrada);
+                Console.WriteLine(i.Placa +  "  -  "  + i.DataHoraEntrada);
             }
         }
 
