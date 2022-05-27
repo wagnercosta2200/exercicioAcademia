@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Garagem\bin\Debug\net6.0\Garagem.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Garagem\bin\Debug\net6.0\Garagem.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Garagem\bin\Debug\net6.0\Garagem.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Garagem\bin\Debug\net6.0\Garagem.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Garagem\bin\Debug\net6.0\Garagem.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Garagem\obj\Debug\net6.0\Garagem.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Garagem\obj\Debug\net6.0\Garagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Garagem\obj\Debug\net6.0\Garagem.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Garagem\obj\Debug\net6.0\Garagem.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Garagem\obj\Debug\net6.0\Garagem.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Garagem\obj\Debug\net6.0\Garagem.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Garagem\obj\Debug\net6.0\refint\Garagem.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Garagem\obj\Debug\net6.0\Garagem.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Garagem\obj\Debug\net6.0\Garagem.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\Garagem\obj\Debug\net6.0\ref\Garagem.dll

@@ -1,0 +1,15 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\GaregemEstacionamento\bin\Debug\net6.0\GaregemEstacionamento.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\GaregemEstacionamento\bin\Debug\net6.0\GaregemEstacionamento.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\GaregemEstacionamento\bin\Debug\net6.0\GaregemEstacionamento.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\GaregemEstacionamento\bin\Debug\net6.0\GaregemEstacionamento.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\GaregemEstacionamento\bin\Debug\net6.0\GaregemEstacionamento.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\GaregemEstacionamento\obj\Debug\net6.0\GaregemEstacionamento.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\GaregemEstacionamento\obj\Debug\net6.0\GaregemEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\GaregemEstacionamento\obj\Debug\net6.0\GaregemEstacionamento.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\GaregemEstacionamento\obj\Debug\net6.0\GaregemEstacionamento.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\GaregemEstacionamento\obj\Debug\net6.0\GaregemEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\GaregemEstacionamento\obj\Debug\net6.0\GaregemEstacionamento.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\GaregemEstacionamento\obj\Debug\net6.0\refint\GaregemEstacionamento.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\GaregemEstacionamento\obj\Debug\net6.0\GaregemEstacionamento.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\GaregemEstacionamento\obj\Debug\net6.0\GaregemEstacionamento.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Orientação a Objeto\GaregemEstacionamento\obj\Debug\net6.0\ref\GaregemEstacionamento.dll
