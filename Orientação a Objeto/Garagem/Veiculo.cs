@@ -14,7 +14,7 @@ namespace Garagem
         private void gerarDataHoraEntrada()
         {
             this.datahoraEntrada = DateTime.Now;
-            //this.datahoraEntrada = this.datahoraEntrada.ToString();
+      
         }
 
         //construtor usado no cadastro de um usuario
