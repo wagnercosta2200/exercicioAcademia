@@ -31,14 +31,14 @@ namespace Segundo_Formulário
         public void MostrarDadosCarro()
         {
           
-            MessageBox.Show("Carro " + this.modelo);
-            MessageBox.Show("Fabricante " + this.fabricante);
-            MessageBox.Show("DH " + this.dh);
-            MessageBox.Show("Ar " + this.ar);
-            MessageBox.Show("ABS " + this.abs);
-            MessageBox.Show("Air bag " + this.airbarg);
-            MessageBox.Show("Vidros eletrico " + this.ve);
-            MessageBox.Show("Portas " + this.portas);
+            //MessageBox.Show("Carro " + this.modelo);
+            //MessageBox.Show("Fabricante " + this.fabricante);
+            //MessageBox.Show("DH " + this.dh);
+            //MessageBox.Show("Ar " + this.ar);
+            //MessageBox.Show("ABS " + this.abs);
+            //MessageBox.Show("Air bag " + this.airbarg);
+            //MessageBox.Show("Vidros eletrico " + this.ve);
+            //MessageBox.Show("Portas " + this.portas);
         }
     }
 }

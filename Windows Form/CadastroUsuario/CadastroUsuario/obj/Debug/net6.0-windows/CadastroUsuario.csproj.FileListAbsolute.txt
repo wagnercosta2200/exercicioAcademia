@@ -16,3 +16,4 @@ C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\CadastroUsuario\Cada
 C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\CadastroUsuario\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.pdb
 C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\CadastroUsuario\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.genruntimeconfig.cache
 C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\CadastroUsuario\CadastroUsuario\obj\Debug\net6.0-windows\ref\CadastroUsuario.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\CadastroUsuario\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.Properties.Resources.resources
