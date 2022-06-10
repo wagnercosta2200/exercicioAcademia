@@ -1,0 +1,17 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\10_Form_Lista_Aquivos\10_Form_Lista_Aquivos\obj\Debug\net6.0-windows\10_Form_Lista_Aquivos.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\10_Form_Lista_Aquivos\10_Form_Lista_Aquivos\obj\Debug\net6.0-windows\_10_Form_Lista_Aquivos.Form_TelaPrincipal.resources
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\10_Form_Lista_Aquivos\10_Form_Lista_Aquivos\obj\Debug\net6.0-windows\10_Form_Lista_Aquivos.csproj.GenerateResource.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\10_Form_Lista_Aquivos\10_Form_Lista_Aquivos\obj\Debug\net6.0-windows\10_Form_Lista_Aquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\10_Form_Lista_Aquivos\10_Form_Lista_Aquivos\obj\Debug\net6.0-windows\10_Form_Lista_Aquivos.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\10_Form_Lista_Aquivos\10_Form_Lista_Aquivos\obj\Debug\net6.0-windows\10_Form_Lista_Aquivos.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\10_Form_Lista_Aquivos\10_Form_Lista_Aquivos\obj\Debug\net6.0-windows\10_Form_Lista_Aquivos.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\10_Form_Lista_Aquivos\10_Form_Lista_Aquivos\bin\Debug\net6.0-windows\10_Form_Lista_Aquivos.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\10_Form_Lista_Aquivos\10_Form_Lista_Aquivos\bin\Debug\net6.0-windows\10_Form_Lista_Aquivos.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\10_Form_Lista_Aquivos\10_Form_Lista_Aquivos\bin\Debug\net6.0-windows\10_Form_Lista_Aquivos.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\10_Form_Lista_Aquivos\10_Form_Lista_Aquivos\bin\Debug\net6.0-windows\10_Form_Lista_Aquivos.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\10_Form_Lista_Aquivos\10_Form_Lista_Aquivos\bin\Debug\net6.0-windows\10_Form_Lista_Aquivos.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\10_Form_Lista_Aquivos\10_Form_Lista_Aquivos\obj\Debug\net6.0-windows\10_Form_Lista_Aquivos.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\10_Form_Lista_Aquivos\10_Form_Lista_Aquivos\obj\Debug\net6.0-windows\refint\10_Form_Lista_Aquivos.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\10_Form_Lista_Aquivos\10_Form_Lista_Aquivos\obj\Debug\net6.0-windows\10_Form_Lista_Aquivos.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\10_Form_Lista_Aquivos\10_Form_Lista_Aquivos\obj\Debug\net6.0-windows\10_Form_Lista_Aquivos.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\10_Form_Lista_Aquivos\10_Form_Lista_Aquivos\obj\Debug\net6.0-windows\ref\10_Form_Lista_Aquivos.dll
