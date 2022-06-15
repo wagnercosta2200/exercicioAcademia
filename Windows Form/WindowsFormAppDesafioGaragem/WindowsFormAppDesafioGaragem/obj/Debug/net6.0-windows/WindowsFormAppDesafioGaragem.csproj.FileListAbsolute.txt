@@ -1,0 +1,17 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormAppDesafioGaragem\WindowsFormAppDesafioGaragem\bin\Debug\net6.0-windows\WindowsFormAppDesafioGaragem.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormAppDesafioGaragem\WindowsFormAppDesafioGaragem\bin\Debug\net6.0-windows\WindowsFormAppDesafioGaragem.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormAppDesafioGaragem\WindowsFormAppDesafioGaragem\bin\Debug\net6.0-windows\WindowsFormAppDesafioGaragem.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormAppDesafioGaragem\WindowsFormAppDesafioGaragem\bin\Debug\net6.0-windows\WindowsFormAppDesafioGaragem.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormAppDesafioGaragem\WindowsFormAppDesafioGaragem\bin\Debug\net6.0-windows\WindowsFormAppDesafioGaragem.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormAppDesafioGaragem\WindowsFormAppDesafioGaragem\obj\Debug\net6.0-windows\WindowsFormAppDesafioGaragem.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormAppDesafioGaragem\WindowsFormAppDesafioGaragem\obj\Debug\net6.0-windows\WindowsFormAppDesafioGaragem.Form1.resources
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormAppDesafioGaragem\WindowsFormAppDesafioGaragem\obj\Debug\net6.0-windows\WindowsFormAppDesafioGaragem.csproj.GenerateResource.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormAppDesafioGaragem\WindowsFormAppDesafioGaragem\obj\Debug\net6.0-windows\WindowsFormAppDesafioGaragem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormAppDesafioGaragem\WindowsFormAppDesafioGaragem\obj\Debug\net6.0-windows\WindowsFormAppDesafioGaragem.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormAppDesafioGaragem\WindowsFormAppDesafioGaragem\obj\Debug\net6.0-windows\WindowsFormAppDesafioGaragem.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormAppDesafioGaragem\WindowsFormAppDesafioGaragem\obj\Debug\net6.0-windows\WindowsFormAppDesafioGaragem.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormAppDesafioGaragem\WindowsFormAppDesafioGaragem\obj\Debug\net6.0-windows\WindowsFormAppDesafioGaragem.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormAppDesafioGaragem\WindowsFormAppDesafioGaragem\obj\Debug\net6.0-windows\refint\WindowsFormAppDesafioGaragem.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormAppDesafioGaragem\WindowsFormAppDesafioGaragem\obj\Debug\net6.0-windows\WindowsFormAppDesafioGaragem.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormAppDesafioGaragem\WindowsFormAppDesafioGaragem\obj\Debug\net6.0-windows\WindowsFormAppDesafioGaragem.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormAppDesafioGaragem\WindowsFormAppDesafioGaragem\obj\Debug\net6.0-windows\ref\WindowsFormAppDesafioGaragem.dll
