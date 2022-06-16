@@ -1,3 +1,11 @@
+
+
+
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
 using System.Configuration;
 using Microsoft.Data.SqlClient;
 
@@ -47,31 +55,7 @@ public partial class Form1 : Form
 
     private void button1_Click(object sender, EventArgs e)
     {
-        // obejeto de conexão que conversa com o string de conexão
-        SqlConnection conexao = new SqlConnection(conexaoString);
-
-        // ADO em ação -> texto ou sentença SQL
-        conexao.Open();
-        string sqlTexto = "SELECT idMedidaGlicemia, valorGlicemia, dataMedida, idPaciente FROM MedidaGlicemia";
-
-        // ADO em ação -> associando o Sqltexto com a conexão ou seja tá mandando para o BD
-        SqlCommand comando = new SqlCommand(sqlTexto, conexao);
-
-        listView_medidasGlicemias.Items.Clear();
-
-        //Obejeto leitr tem a resposta do SqlTexto
-        SqlDataReader leitor = comando.ExecuteReader();
-        int i = 0;
-        while (leitor.Read())
-        {
-            listView_medidasGlicemias.Items.Add(leitor["idMedidaGlicemia"].ToString());
-            listView_medidasGlicemias.Items[i].SubItems.Add(leitor["valorGlicemia"].ToString());
-            listView_medidasGlicemias.Items[i].SubItems.Add(leitor["dataMedida"].ToString());
-            listView_medidasGlicemias.Items[i].SubItems.Add(leitor["idPaciente"].ToString());
-            i++;
-        }
-
-        conexao.Close();
+        carregarListView();
     }
 
     //Metodo Limpar text box

@@ -33,7 +33,7 @@
             this.columnHeader2 = new System.Windows.Forms.ColumnHeader();
             this.columnHeader3 = new System.Windows.Forms.ColumnHeader();
             this.columnHeader4 = new System.Windows.Forms.ColumnHeader();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btn_Conectar = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -42,8 +42,8 @@
             this.textBoxValorGlicemia = new System.Windows.Forms.TextBox();
             this.textBoxdataMedicao = new System.Windows.Forms.TextBox();
             this.textBoxIdPaciente = new System.Windows.Forms.TextBox();
-            this.buttonAdicionar = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btn_Adcionar = new System.Windows.Forms.Button();
+            this.btn_Remover = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // listView_medidasGlicemias
@@ -80,15 +80,15 @@
             this.columnHeader4.Text = "Paciente";
             this.columnHeader4.Width = 100;
             // 
-            // button1
+            // btn_Conectar
             // 
-            this.button1.Location = new System.Drawing.Point(23, 250);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(223, 45);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "Conectar";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btn_Conectar.Location = new System.Drawing.Point(23, 250);
+            this.btn_Conectar.Name = "btn_Conectar";
+            this.btn_Conectar.Size = new System.Drawing.Size(223, 45);
+            this.btn_Conectar.TabIndex = 1;
+            this.btn_Conectar.Text = "Conectar";
+            this.btn_Conectar.UseVisualStyleBackColor = true;
+            this.btn_Conectar.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
@@ -154,33 +154,33 @@
             this.textBoxIdPaciente.Size = new System.Drawing.Size(100, 23);
             this.textBoxIdPaciente.TabIndex = 9;
             // 
-            // buttonAdicionar
+            // btn_Adcionar
             // 
-            this.buttonAdicionar.Location = new System.Drawing.Point(279, 336);
-            this.buttonAdicionar.Name = "buttonAdicionar";
-            this.buttonAdicionar.Size = new System.Drawing.Size(223, 44);
-            this.buttonAdicionar.TabIndex = 10;
-            this.buttonAdicionar.Text = "Adcionar";
-            this.buttonAdicionar.UseVisualStyleBackColor = true;
-            this.buttonAdicionar.Click += new System.EventHandler(this.buttonAdicionar_Click);
+            this.btn_Adcionar.Location = new System.Drawing.Point(279, 336);
+            this.btn_Adcionar.Name = "btn_Adcionar";
+            this.btn_Adcionar.Size = new System.Drawing.Size(223, 44);
+            this.btn_Adcionar.TabIndex = 10;
+            this.btn_Adcionar.Text = "Adcionar";
+            this.btn_Adcionar.UseVisualStyleBackColor = true;
+            this.btn_Adcionar.Click += new System.EventHandler(this.buttonAdicionar_Click);
             // 
-            // button2
+            // btn_Remover
             // 
-            this.button2.Location = new System.Drawing.Point(279, 250);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(223, 45);
-            this.button2.TabIndex = 11;
-            this.button2.Text = "Remover";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.btn_Remover.Location = new System.Drawing.Point(279, 250);
+            this.btn_Remover.Name = "btn_Remover";
+            this.btn_Remover.Size = new System.Drawing.Size(223, 45);
+            this.btn_Remover.TabIndex = 11;
+            this.btn_Remover.Text = "Remover";
+            this.btn_Remover.UseVisualStyleBackColor = true;
+            this.btn_Remover.Click += new System.EventHandler(this.button2_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.buttonAdicionar);
+            this.Controls.Add(this.btn_Remover);
+            this.Controls.Add(this.btn_Adcionar);
             this.Controls.Add(this.textBoxIdPaciente);
             this.Controls.Add(this.textBoxdataMedicao);
             this.Controls.Add(this.textBoxValorGlicemia);
@@ -189,7 +189,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btn_Conectar);
             this.Controls.Add(this.listView_medidasGlicemias);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -205,7 +205,7 @@
         private ColumnHeader columnHeader2;
         private ColumnHeader columnHeader3;
         private ColumnHeader columnHeader4;
-        private Button button1;
+        private Button btn_Conectar;
         private Label label1;
         private Label label2;
         private Label label3;
@@ -214,7 +214,7 @@
         private TextBox textBoxValorGlicemia;
         private TextBox textBoxdataMedicao;
         private TextBox textBoxIdPaciente;
-        private Button buttonAdicionar;
-        private Button button2;
+        private Button btn_Adcionar;
+        private Button btn_Remover;
     }
 }
