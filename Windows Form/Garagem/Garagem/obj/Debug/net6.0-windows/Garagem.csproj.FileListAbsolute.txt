@@ -1,0 +1,17 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\Garagem\Garagem\obj\Debug\net6.0-windows\Garagem.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\Garagem\Garagem\obj\Debug\net6.0-windows\Garagem.Form1.resources
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\Garagem\Garagem\obj\Debug\net6.0-windows\Garagem.csproj.GenerateResource.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\Garagem\Garagem\obj\Debug\net6.0-windows\Garagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\Garagem\Garagem\obj\Debug\net6.0-windows\Garagem.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\Garagem\Garagem\obj\Debug\net6.0-windows\Garagem.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\Garagem\Garagem\obj\Debug\net6.0-windows\Garagem.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\Garagem\Garagem\bin\Debug\net6.0-windows\Garagem.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\Garagem\Garagem\bin\Debug\net6.0-windows\Garagem.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\Garagem\Garagem\bin\Debug\net6.0-windows\Garagem.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\Garagem\Garagem\bin\Debug\net6.0-windows\Garagem.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\Garagem\Garagem\bin\Debug\net6.0-windows\Garagem.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\Garagem\Garagem\obj\Debug\net6.0-windows\Garagem.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\Garagem\Garagem\obj\Debug\net6.0-windows\refint\Garagem.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\Garagem\Garagem\obj\Debug\net6.0-windows\Garagem.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\Garagem\Garagem\obj\Debug\net6.0-windows\Garagem.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\Garagem\Garagem\obj\Debug\net6.0-windows\ref\Garagem.dll

@@ -2,21 +2,46 @@ namespace WindowsFormAppDesafioGaragem
 {
     public partial class Form1 : Form
     {
-        List<Veiculo> listaentrada = new List<Veiculo>();
+        List<Veiculo> listaEntrada = new List<Veiculo>();
         List<Veiculo> listasaida = new List<Veiculo>();
         private void populartextboxEntradaVeiculos(List<Veiculo> lista)
         {
             textBoxEntradaVeiculo.Text = "";
             foreach (Veiculo i in lista)
             {
+                
                 textBoxEntradaVeiculo.AppendText(i.Placa + " : " + i.HoraEntrada + " : " + i.DataEntrada + Environment.NewLine);
+            }
+        }
+
+        private void populartextboxSaidaVeiculos(List<Veiculo> lista)
+        {
+            textBoxSaidaVeiculo.Text = "";
+            foreach (Veiculo i in lista)
+            {
+                textBoxSaidaVeiculo.AppendText(i.Placa + " : " + i.HoraSaida + " : " + i.DataSaida + " : " + i.TempoPermanecia + " : " + i.ValorCobrado + Environment.NewLine);
             }
         }
         public Form1()
         {
             InitializeComponent();
-            populartextboxEntradaVeiculos(listaentrada);
+            //populartextboxEntradaVeiculos(listaentrada);
+
+           // Persistencia.gravarNoArquivoEntrada(listaEntrada);
+           // Persistencia.gravarNoArquivoSaida(listasaida);
+
+            populartextboxEntradaVeiculos(listaEntrada);
+            populartextboxSaidaVeiculos(listasaida);
+
+            Persistencia.lerArquivoEntrada(listaEntrada);           
+            Persistencia.lerArquivoSaida(listasaida);
+            
         }
+
+       
+
+      
+
         /// <summary>
         /// hora referencia do porteiro
         /// </summary>
@@ -39,15 +64,17 @@ namespace WindowsFormAppDesafioGaragem
             
             Veiculo veiculo = new Veiculo(mtBox_placa.Text, mtBox_horaEntrada.Text, mtBox_dataEntrada.Text);
            
-            if (Veiculo.localizado(veiculo.Placa, listaentrada) == -27)
+            if (Veiculo.localizado(veiculo.Placa, listaEntrada) == -27)
             {
-                listaentrada.Add(veiculo);
+                listaEntrada.Add(veiculo);
 
-                Persistencia.gravarNoArquivoEntrada(listaentrada);
+                Persistencia.gravarNoArquivoEntrada(listaEntrada);
+                Persistencia.lerArquivoEntrada(listaEntrada);
+                
                 textBox_Placa.Text = "";
                 //lança veiculos cadastrados
                 mtBox_placa.Text = mtBox_placa.Text.ToUpper();
-                textBoxEntradaVeiculo.AppendText(veiculo.Placa + "          -       " + veiculo.DataEntrada + "         -         " + veiculo.HoraEntrada + Environment.NewLine);
+                textBoxEntradaVeiculo.AppendText(veiculo.Placa + "          -       " + veiculo.HoraEntrada + "         -         " + veiculo.DataEntrada + Environment.NewLine);
                 // Limpa os textbox
                 mtBox_placa.Text = "";
                 mtBox_dataEntrada.Text = "";
@@ -63,19 +90,23 @@ namespace WindowsFormAppDesafioGaragem
         private void button_Saida_Click(object sender, EventArgs e)
         {
             Veiculo veiculo = new Veiculo(mtBox_placa.Text,mtBox_horaSaida.Text, mtBox_dataSaida.Text);
-
+            
             if (Veiculo.localizado(veiculo.Placa, listasaida) == -27)
             {
                 listasaida.Add(veiculo);
-
+                
                 Persistencia.gravarNoArquivoSaida(listasaida);
+                Persistencia.lerArquivoEntrada(listaEntrada);
+                Persistencia.lerArquivoSaida(listasaida);
                 //lança veiculos cadastrados
-                textBoxSaidaVeiculo.AppendText(veiculo.Placa + " - " + veiculo.DataSaida + " - " + veiculo.HoraSaida + " - " + veiculo.TempoPermanecia + " - "+ veiculo.ValorCobrado + Environment.NewLine);
+               //listasaida.Add(new Veiculo(veiculo.Placa + " - " +  veiculo.TempoPermanecia + " - " + veiculo.ValorCobrado + Environment.NewLine));
+                textBoxSaidaVeiculo.AppendText(veiculo.Placa + "  -    " +veiculo.HoraSaida+ "  -  " +veiculo.TempoPermanecia + " - " + veiculo.ValorCobrado + Environment.NewLine);
                 // Limpa os textbox
                 mtBox_placa.Text = "";
                 mtBox_dataSaida.Text = "";
                 mtBox_horaSaida.Text = "";
-
+                MessageBox.Show("" + veiculo.ValorCobrado );
+               
             }
         }
     }

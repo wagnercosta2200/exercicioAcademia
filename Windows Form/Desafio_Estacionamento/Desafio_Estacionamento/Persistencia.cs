@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace Desafio_Estacionamento
 {
@@ -18,7 +19,7 @@ namespace Desafio_Estacionamento
 
             foreach (Veiculo i in lista)
             {
-                escritor.WriteLine(i.Placa + ";" + i.DataEntrada + ";" + i.HoraEntrada);
+                escritor.WriteLine(i.Placa + "  ;  " + i.DataEntrada + "  ;  " + i.HoraEntrada);
                 escritor.Flush();
             }
             escritor.Close();
@@ -34,7 +35,7 @@ namespace Desafio_Estacionamento
 
             foreach (Veiculo i in lista)
             {
-                escritor.WriteLine(i.Placa + ";" + i.DataEntrada + ";" + i.HoraEntrada + ";" + i.DataSaida + ";" + i.HoraSaida + ";" + i.TempoPermanecia + ";" + i.ValorCobrado);
+                escritor.WriteLine(i.Placa +  "  ;  " + i.DataEntrada + "  ;  " + i.HoraEntrada + "  ;  " + i.DataSaida + "  ;  " + i.HoraSaida + "  ;  " + i.TempoPermanecia + "  ;  " + i.ValorCobrado);
                 escritor.Flush();
             }
             escritor.Close();
@@ -48,13 +49,17 @@ namespace Desafio_Estacionamento
         {
             StreamReader leitor = new StreamReader("veiculosEntrada.dat");
             string linha;
-            string[] vetorDados;
+            string[] vetorLinha;
 
-            
+            do
             {
                 linha = leitor.ReadLine();
-                vetorDados = linha.Split(";");
-                lista.Add(new Veiculo(vetorDados[0], vetorDados[1], vetorDados[2]));
+                if (linha !=null)
+                {
+                    vetorLinha = linha.Split(';');
+                    lista.Add(new Veiculo(vetorLinha[0], vetorLinha[1], vetorLinha[2]));
+                }
+                
             } while (!leitor.EndOfStream);
             leitor.Close();
         }
@@ -67,16 +72,22 @@ namespace Desafio_Estacionamento
         {
             StreamReader leitor = new StreamReader("veiculosSaida.dat");
             string linha;
-            string[] vetorDados;
+            string[] vetorLinha;
 
-            
+            do
             {
                 linha = leitor.ReadLine();
-                vetorDados = linha.Split(";");
-                lista.Add(new Veiculo(vetorDados[0], vetorDados[1], vetorDados[2], vetorDados[3],
-                    vetorDados[4], int.Parse(vetorDados[5]), double.Parse(vetorDados[6])));
+                if(linha != null)
+                {
+                    vetorLinha = linha.Split(';');
+                    lista.Add(new Veiculo(vetorLinha[0], vetorLinha[1], vetorLinha[2], vetorLinha[3],
+                        vetorLinha[4], int.Parse(vetorLinha[5]), double.Parse(vetorLinha[6])));
+                }
+
             } while (!leitor.EndOfStream);
             leitor.Close();
+
+            
         }
     }
 }

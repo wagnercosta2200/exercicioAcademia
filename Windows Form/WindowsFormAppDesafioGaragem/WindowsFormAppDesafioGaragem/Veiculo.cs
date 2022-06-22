@@ -80,6 +80,8 @@ namespace WindowsFormAppDesafioGaragem
             }
         }
 
+       
+
         /// <summary>
         /// metodo que calcula o tempo de permanencia (em minutos) e calcula o valor de cobranca 
         /// </summary>
@@ -89,16 +91,18 @@ namespace WindowsFormAppDesafioGaragem
             //horaEntrada = "8:14"; -> 8*60+14 = 494
             //horaSaida = "10:15";  -> 10*60+15 = 615
             //descobrindo o tempo em minutos da entrada
-            string[] vetorDados = horaEntrada.Split(':');
+            string[] vetorDados = HoraEntrada.Split(':');
             int hora = int.Parse(vetorDados[0]);
             int minutos = int.Parse(vetorDados[1]);
             int entrada = hora * 60 + minutos;
 
             //descobrindo o tempo em minutos da saida
-            vetorDados = horaSaida.Split(':');
+            vetorDados = HoraSaida.Split(':');
             hora = int.Parse(vetorDados[0]);
             minutos = int.Parse(vetorDados[1]);
             int saida = hora * 60 + minutos;
+
+            valorHora = 5.00;
 
             this.TempoPermanecia = saida - entrada;
             double resultado = (double)this.TempoPermanecia / 60;
@@ -132,7 +136,7 @@ namespace WindowsFormAppDesafioGaragem
         /// <param name="placa">identificação do veículo</param>
         /// <param name="lista">lista de veículos ou de entrada ou de saída</param>
         /// <returns>a posição em que o veículo se encontra na lista, caso contrário, -27</returns>
-        public static int localizado(string placa, List<Veiculo> lista)
+        public static int localizado(string placa,List<Veiculo> lista)
         {
             foreach (Veiculo i in lista)
             {
@@ -154,5 +158,6 @@ namespace WindowsFormAppDesafioGaragem
         {
             return lista.Count < tamanhoGaragem;
         }
+
     }
 }

@@ -45,11 +45,7 @@
             this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.textBoxSaidaVeiculo = new System.Windows.Forms.TextBox();
-            this.textBox_DataEntrada = new System.Windows.Forms.TextBox();
             this.label_dataSaida = new System.Windows.Forms.Label();
-            this.textBox_HoraSaida = new System.Windows.Forms.TextBox();
-            this.textBox_DataSaida = new System.Windows.Forms.TextBox();
-            this.textBox_HoraEntrada = new System.Windows.Forms.TextBox();
             this.textBoxEntradaVeiculo = new System.Windows.Forms.TextBox();
             this.button_Saida = new System.Windows.Forms.Button();
             this.button_Entrada = new System.Windows.Forms.Button();
@@ -58,6 +54,9 @@
             this.label_placa = new System.Windows.Forms.Label();
             this.label_dataEntrada = new System.Windows.Forms.Label();
             this.label_horaEntrada = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
             pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -162,24 +161,31 @@
             // label2
             // 
             this.label2.AutoSize = true;
+            this.label2.BackColor = System.Drawing.Color.Gray;
+            this.label2.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.label2.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label2.ForeColor = System.Drawing.SystemColors.MenuHighlight;
-            this.label2.Location = new System.Drawing.Point(686, 59);
+            this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.label2.Location = new System.Drawing.Point(686, 51);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(55, 21);
+            this.label2.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.label2.Size = new System.Drawing.Size(57, 23);
             this.label2.TabIndex = 71;
             this.label2.Text = "HORA";
+            this.label2.Click += new System.EventHandler(this.label2_Click_1);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Gray;
+            this.label1.Enabled = false;
             this.label1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.label1.ForeColor = System.Drawing.SystemColors.MenuHighlight;
+            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
             this.label1.Location = new System.Drawing.Point(686, 12);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(51, 21);
             this.label1.TabIndex = 70;
             this.label1.Text = "DATA";
+            this.label1.Click += new System.EventHandler(this.label1_Click_1);
             // 
             // label_data
             // 
@@ -205,7 +211,7 @@
             // 
             this.label7.AutoSize = true;
             this.label7.ForeColor = System.Drawing.Color.LavenderBlush;
-            this.label7.Location = new System.Drawing.Point(343, 120);
+            this.label7.Location = new System.Drawing.Point(343, 114);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(259, 15);
             this.label7.TabIndex = 67;
@@ -230,14 +236,6 @@
             this.textBoxSaidaVeiculo.Size = new System.Drawing.Size(280, 269);
             this.textBoxSaidaVeiculo.TabIndex = 64;
             // 
-            // textBox_DataEntrada
-            // 
-            this.textBox_DataEntrada.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox_DataEntrada.Location = new System.Drawing.Point(637, 184);
-            this.textBox_DataEntrada.Name = "textBox_DataEntrada";
-            this.textBox_DataEntrada.Size = new System.Drawing.Size(100, 25);
-            this.textBox_DataEntrada.TabIndex = 56;
-            // 
             // label_dataSaida
             // 
             this.label_dataSaida.AutoSize = true;
@@ -248,30 +246,6 @@
             this.label_dataSaida.Size = new System.Drawing.Size(74, 17);
             this.label_dataSaida.TabIndex = 63;
             this.label_dataSaida.Text = "Data Saida";
-            // 
-            // textBox_HoraSaida
-            // 
-            this.textBox_HoraSaida.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox_HoraSaida.Location = new System.Drawing.Point(637, 277);
-            this.textBox_HoraSaida.Name = "textBox_HoraSaida";
-            this.textBox_HoraSaida.Size = new System.Drawing.Size(100, 25);
-            this.textBox_HoraSaida.TabIndex = 59;
-            // 
-            // textBox_DataSaida
-            // 
-            this.textBox_DataSaida.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox_DataSaida.Location = new System.Drawing.Point(637, 215);
-            this.textBox_DataSaida.Name = "textBox_DataSaida";
-            this.textBox_DataSaida.Size = new System.Drawing.Size(100, 25);
-            this.textBox_DataSaida.TabIndex = 58;
-            // 
-            // textBox_HoraEntrada
-            // 
-            this.textBox_HoraEntrada.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox_HoraEntrada.Location = new System.Drawing.Point(637, 246);
-            this.textBox_HoraEntrada.Name = "textBox_HoraEntrada";
-            this.textBox_HoraEntrada.Size = new System.Drawing.Size(100, 25);
-            this.textBox_HoraEntrada.TabIndex = 57;
             // 
             // textBoxEntradaVeiculo
             // 
@@ -293,6 +267,7 @@
             this.button_Saida.TabIndex = 61;
             this.button_Saida.Text = "Saida";
             this.button_Saida.UseVisualStyleBackColor = false;
+            this.button_Saida.Click += new System.EventHandler(this.button_Saida_Click);
             // 
             // button_Entrada
             // 
@@ -359,12 +334,48 @@
             this.label_horaEntrada.TabIndex = 51;
             this.label_horaEntrada.Text = "Hora Entrada";
             // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label8.ForeColor = System.Drawing.Color.Yellow;
+            this.label8.Location = new System.Drawing.Point(343, 132);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(35, 15);
+            this.label8.TabIndex = 80;
+            this.label8.Text = "Placa";
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label9.ForeColor = System.Drawing.Color.Yellow;
+            this.label9.Location = new System.Drawing.Point(393, 133);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(78, 15);
+            this.label9.TabIndex = 81;
+            this.label9.Text = "Data Entrada";
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label10.ForeColor = System.Drawing.Color.Yellow;
+            this.label10.Location = new System.Drawing.Point(481, 133);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(79, 15);
+            this.label10.TabIndex = 82;
+            this.label10.Text = "Hora Entrada";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Blue;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label10);
+            this.Controls.Add(this.label9);
+            this.Controls.Add(this.label8);
             this.Controls.Add(this.mtBox_horaSaida);
             this.Controls.Add(this.mtBox_horaEntrada);
             this.Controls.Add(this.mtBox_dataSaida);
@@ -381,11 +392,7 @@
             this.Controls.Add(this.label6);
             this.Controls.Add(pictureBox1);
             this.Controls.Add(this.textBoxSaidaVeiculo);
-            this.Controls.Add(this.textBox_DataEntrada);
             this.Controls.Add(this.label_dataSaida);
-            this.Controls.Add(this.textBox_HoraSaida);
-            this.Controls.Add(this.textBox_DataSaida);
-            this.Controls.Add(this.textBox_HoraEntrada);
             this.Controls.Add(this.textBoxEntradaVeiculo);
             this.Controls.Add(this.button_Saida);
             this.Controls.Add(this.button_Entrada);
@@ -420,11 +427,7 @@
         private Label label7;
         private Label label6;
         private TextBox textBoxSaidaVeiculo;
-        private TextBox textBox_DataEntrada;
         private Label label_dataSaida;
-        private TextBox textBox_HoraSaida;
-        private TextBox textBox_DataSaida;
-        private TextBox textBox_HoraEntrada;
         private TextBox textBoxEntradaVeiculo;
         private Button button_Saida;
         private Button button_Entrada;
@@ -433,5 +436,8 @@
         private Label label_placa;
         private Label label_dataEntrada;
         private Label label_horaEntrada;
+        private Label label8;
+        private Label label9;
+        private Label label10;
     }
 }

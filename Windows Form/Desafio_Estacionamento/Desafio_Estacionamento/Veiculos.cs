@@ -89,16 +89,18 @@ namespace Desafio_Estacionamento
             //horaEntrada = "8:14"; -> 8*60+14 = 494
             //horaSaida = "10:15";  -> 10*60+15 = 615
             //descobrindo o tempo em minutos da entrada
-            string[] vetorDados = horaEntrada.Split(':');
-            int hora = int.Parse(vetorDados[0]);
-            int minutos = int.Parse(vetorDados[1]);
+            string[] vetorLinha = horaEntrada.Split(':');
+            int hora = int.Parse(vetorLinha[0]);
+            int minutos = int.Parse(vetorLinha[1]);
             int entrada = hora * 60 + minutos;
 
             //descobrindo o tempo em minutos da saida
-            vetorDados = horaSaida.Split(':');
-            hora = int.Parse(vetorDados[0]);
-            minutos = int.Parse(vetorDados[1]);
+            vetorLinha = horaSaida.Split(':');
+            hora = int.Parse(vetorLinha[0]);
+            minutos = int.Parse(vetorLinha[1]);
             int saida = hora * 60 + minutos;
+
+            //valorHora = 5.00;
 
             this.TempoPermanecia = saida - entrada;
             double resultado = (double)this.TempoPermanecia / 60;

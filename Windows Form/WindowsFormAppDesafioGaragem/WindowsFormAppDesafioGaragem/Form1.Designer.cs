@@ -37,11 +37,7 @@
             this.label7 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.textBoxSaidaVeiculo = new System.Windows.Forms.TextBox();
-            this.textBox_DataEntrada = new System.Windows.Forms.TextBox();
             this.label_dataSaida = new System.Windows.Forms.Label();
-            this.textBox_HoraSaida = new System.Windows.Forms.TextBox();
-            this.textBox_DataSaida = new System.Windows.Forms.TextBox();
-            this.textBox_HoraEntrada = new System.Windows.Forms.TextBox();
             this.textBoxEntradaVeiculo = new System.Windows.Forms.TextBox();
             this.button_Saida = new System.Windows.Forms.Button();
             this.button_Entrada = new System.Windows.Forms.Button();
@@ -147,14 +143,6 @@
             this.textBoxSaidaVeiculo.Size = new System.Drawing.Size(280, 269);
             this.textBoxSaidaVeiculo.TabIndex = 35;
             // 
-            // textBox_DataEntrada
-            // 
-            this.textBox_DataEntrada.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox_DataEntrada.Location = new System.Drawing.Point(635, 190);
-            this.textBox_DataEntrada.Name = "textBox_DataEntrada";
-            this.textBox_DataEntrada.Size = new System.Drawing.Size(100, 25);
-            this.textBox_DataEntrada.TabIndex = 27;
-            // 
             // label_dataSaida
             // 
             this.label_dataSaida.AutoSize = true;
@@ -164,30 +152,6 @@
             this.label_dataSaida.Size = new System.Drawing.Size(74, 17);
             this.label_dataSaida.TabIndex = 33;
             this.label_dataSaida.Text = "Data Saida";
-            // 
-            // textBox_HoraSaida
-            // 
-            this.textBox_HoraSaida.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox_HoraSaida.Location = new System.Drawing.Point(635, 283);
-            this.textBox_HoraSaida.Name = "textBox_HoraSaida";
-            this.textBox_HoraSaida.Size = new System.Drawing.Size(100, 25);
-            this.textBox_HoraSaida.TabIndex = 30;
-            // 
-            // textBox_DataSaida
-            // 
-            this.textBox_DataSaida.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox_DataSaida.Location = new System.Drawing.Point(635, 221);
-            this.textBox_DataSaida.Name = "textBox_DataSaida";
-            this.textBox_DataSaida.Size = new System.Drawing.Size(100, 25);
-            this.textBox_DataSaida.TabIndex = 29;
-            // 
-            // textBox_HoraEntrada
-            // 
-            this.textBox_HoraEntrada.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.textBox_HoraEntrada.Location = new System.Drawing.Point(635, 252);
-            this.textBox_HoraEntrada.Name = "textBox_HoraEntrada";
-            this.textBox_HoraEntrada.Size = new System.Drawing.Size(100, 25);
-            this.textBox_HoraEntrada.TabIndex = 28;
             // 
             // textBoxEntradaVeiculo
             // 
@@ -371,11 +335,7 @@
             this.Controls.Add(this.label6);
             this.Controls.Add(pictureBox1);
             this.Controls.Add(this.textBoxSaidaVeiculo);
-            this.Controls.Add(this.textBox_DataEntrada);
             this.Controls.Add(this.label_dataSaida);
-            this.Controls.Add(this.textBox_HoraSaida);
-            this.Controls.Add(this.textBox_DataSaida);
-            this.Controls.Add(this.textBox_HoraEntrada);
             this.Controls.Add(this.textBoxEntradaVeiculo);
             this.Controls.Add(this.button_Saida);
             this.Controls.Add(this.button_Entrada);
@@ -401,11 +361,7 @@
         private Label label7;
         private Label label6;
         private TextBox textBoxSaidaVeiculo;
-        private TextBox textBox_DataEntrada;
         private Label label_dataSaida;
-        private TextBox textBox_HoraSaida;
-        private TextBox textBox_DataSaida;
-        private TextBox textBox_HoraEntrada;
         private TextBox textBoxEntradaVeiculo;
         private Button button_Saida;
         private Button button_Entrada;
