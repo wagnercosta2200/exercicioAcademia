@@ -100,11 +100,8 @@ namespace Desafio_Estacionamento
         private void button_Saida_Click(object sender, EventArgs e)
         {
             
-
                 Veiculo veiculo = new Veiculo(mtBox_placa.Text, mtBox_dataSaida.Text, mtBox_horaSaida.Text);
             
-            
- 
                 if (Veiculo.localizado(veiculo.Placa, listasaida) == -27)
                 {
                     Persistencia.gravarNoArquivoSaida(listasaida);

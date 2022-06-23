@@ -352,9 +352,9 @@
             this.label9.ForeColor = System.Drawing.Color.Yellow;
             this.label9.Location = new System.Drawing.Point(393, 133);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(78, 15);
+            this.label9.Size = new System.Drawing.Size(65, 15);
             this.label9.TabIndex = 81;
-            this.label9.Text = "Data Entrada";
+            this.label9.Text = "Data Saida";
             // 
             // label10
             // 
@@ -363,9 +363,9 @@
             this.label10.ForeColor = System.Drawing.Color.Yellow;
             this.label10.Location = new System.Drawing.Point(481, 133);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(79, 15);
+            this.label10.Size = new System.Drawing.Size(66, 15);
             this.label10.TabIndex = 82;
-            this.label10.Text = "Hora Entrada";
+            this.label10.Text = "Hora Saida";
             // 
             // Form1
             // 

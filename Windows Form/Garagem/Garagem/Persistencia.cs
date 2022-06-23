@@ -66,19 +66,19 @@ namespace Garagem
                 }
                
             } while (!leitor.EndOfStream);
-            leitor.Close();
+           // leitor.Close();
         }
         public static void lerArquivoSaida(List<Veiculo> lista)
         {
             StreamReader leitor = new StreamReader("saida.dat");
             string linha;
             string[] vetorLinha;
-
             do
             {
                 linha = leitor.ReadLine();
 
-                if(linha != null)
+                //ERRO - Ele dá erro se o arquivo estiver vazio qdo inicia o dia
+                if (linha != null)
                 {
                     vetorLinha = linha.Split(';');
                     lista.Add(new Veiculo(vetorLinha[0], vetorLinha[1], vetorLinha[2], int.Parse(vetorLinha[3]), int.Parse(vetorLinha[4]), double.Parse(vetorLinha[5]), double.Parse(vetorLinha[6])));
@@ -86,7 +86,7 @@ namespace Garagem
                 }
                
             } while (!leitor.EndOfStream);
-            leitor.Close();
+           // leitor.Close();
         }
        
        

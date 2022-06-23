@@ -82,83 +82,83 @@ namespace Garagem
            // }
 
             //Já está cadastrado - não pode repetir
-            if (Veiculo.jaCadastrado(maskedTextBox_Placa.Text, listaNaGaragem))
-            {
-                MessageBox.Show("Veiculo já está na Garagem.\nPlaca repetida.", "Erro de digitação");
-                return;
-            }
+           // if (Veiculo.jaCadastrado(maskedTextBox_Placa.Text, listaNaGaragem))
+           // {
+           //     MessageBox.Show("Veiculo já está na Garagem.\nPlaca repetida.", "Erro de digitação");
+           //     return;
+           // }
 
-            //existe vaga?
-           Configurar configuracao = new Configurar();
-           configuracao.lerConfiguracao();
+           // //existe vaga?
+           //Configurar configuracao = new Configurar();
+           //configuracao.lerConfiguracao();
 
-            if (listaNaGaragem.Count >= configuracao.TamanhoGaragem)
-            {
-                MessageBox.Show("A garagem está cheia. \nNão há vagas disponíveis", "Lotação");
-                return;
-            }
+           // if (listaNaGaragem.Count >= configuracao.TamanhoGaragem)
+           // {
+           //     MessageBox.Show("A garagem está cheia. \nNão há vagas disponíveis", "Lotação");
+           //     return;
+           // }
 
-            DateTime dataAgora = DateTime.Now;
-            string dataEntrada = dataAgora.ToShortDateString();
-            string horaEntrada = dataAgora.ToShortTimeString();
+           // DateTime dataAgora = DateTime.Now;
+           // string dataEntrada = dataAgora.ToShortDateString();
+           // string horaEntrada = dataAgora.ToShortTimeString();
 
-            listaNaGaragem.Add(new Veiculo(maskedTextBox_Placa.Text, dataEntrada, horaEntrada, configuracao.ValorHora));
-            Persistencia.gravarArquivoEntrada(listaNaGaragem);
-           // textBox_NaGaragem.AppendText(listaNaGaragem.Count + " - " + textBox_Placa.Text + " - " + dataEntrada + " - " + horaEntrada + " - " + configuracao.ValorHora.ToString("C") + Environment.NewLine);
-            popularNaGaragem(listaNaGaragem);
-            textBox_Disponivel.Text = (configuracao.TamanhoGaragem - listaNaGaragem.Count).ToString();
+           // listaNaGaragem.Add(new Veiculo(maskedTextBox_Placa.Text, dataEntrada, horaEntrada, configuracao.ValorHora));
+           // Persistencia.gravarArquivoEntrada(listaNaGaragem);
+           //// textBox_NaGaragem.AppendText(listaNaGaragem.Count + " - " + textBox_Placa.Text + " - " + dataEntrada + " - " + horaEntrada + " - " + configuracao.ValorHora.ToString("C") + Environment.NewLine);
+           // popularNaGaragem(listaNaGaragem);
+           // textBox_Disponivel.Text = (configuracao.TamanhoGaragem - listaNaGaragem.Count).ToString();
 
-            // Limpara dados
-            DateTime dataNow = DateTime.Now;
+           // // Limpara dados
+           // DateTime dataNow = DateTime.Now;
 
-            maskedTextBox_Data.Text = dataNow.ToShortDateString();
-            maskedTextBox_Hora.Text = dataNow.ToShortTimeString();
-            maskedTextBox_Placa.Text = "";
-            textBox_ResumoSaida.Text = "";
+           // maskedTextBox_Data.Text = dataNow.ToShortDateString();
+           // maskedTextBox_Hora.Text = dataNow.ToShortTimeString();
+           // maskedTextBox_Placa.Text = "";
+           // textBox_ResumoSaida.Text = "";
 
         }
 
         private void btn_Saida_Click(object sender, EventArgs e)
         {
-            if (maskedTextBox_Placa.Text.Length != 7)
-            {
-                MessageBox.Show("Por favor, informar a placa com 7 caracteres." +
-                    "\nSomente letras e números.", "Preenchimento:");
-                return;
-            }
+            //if (maskedTextBox_Placa.Text.Length != 7)
+            //{
+            //    MessageBox.Show("Por favor, informar a placa com 7 caracteres." +
+            //        "\nSomente letras e números.", "Preenchimento:");
+            //    return;
+            //}
 
-            //Verifica se o veículo está na garagem através da placa
-            posicao = Veiculo.Localiza(maskedTextBox_Placa.Text, listaNaGaragem);
-            if (posicao == -27)
-            {
-                MessageBox.Show("Veiculo não está na Garagem.\nPlaca não encontrada.", "Erro de digitação");
-                return;
-            }
+            ////Verifica se o veículo está na garagem através da placa
+            //posicao = Veiculo.Localiza(maskedTextBox_Placa.Text, listaNaGaragem);
+            //if (posicao == -27)
+            //{
+            //    MessageBox.Show("Veiculo não está na Garagem.\nPlaca não encontrada.", "Erro de digitação");
+            //    return;
+            //}
 
-            placaSaida = maskedTextBox_Placa.Text;
+            //placaSaida = maskedTextBox_Placa.Text;
 
-            DateTime dataHoraEntrada = DateTime.Parse(Veiculo.retorna_DataHoraEntrada(placaSaida, listaNaGaragem));
-            DateTime dataHoraSaida = DateTime.Now;
-            dataSaida = dataHoraSaida.ToShortDateString();
-            horaSaida = dataHoraSaida.ToShortTimeString();
+            //DateTime dataHoraEntrada = DateTime.Parse(Veiculo.retorna_DataHoraEntrada(placaSaida, listaNaGaragem));
+            //DateTime dataHoraSaida = DateTime.Now;
+            //dataSaida = dataHoraSaida.ToShortDateString();
+            //horaSaida = dataHoraSaida.ToShortTimeString();
 
-            TimeSpan intervalo;
-            intervalo = dataHoraSaida - dataHoraEntrada;
-            permanenciaMinuto = (int)Math.Round(intervalo.TotalMinutes);
-            permanenciaHora = (int)Math.Ceiling(intervalo.TotalHours);
+            //TimeSpan intervalo;
+            //intervalo = dataHoraSaida - dataHoraEntrada;
+            //permanenciaMinuto = (int)Math.Round(intervalo.TotalMinutes);
+            //permanenciaHora = (int)Math.Ceiling(intervalo.TotalHours);
 
-            valorHora = Veiculo.retorna_ValorHora(maskedTextBox_Placa.Text, listaNaGaragem);
-            valorCobrado = (double)(Math.Ceiling(intervalo.TotalHours)) * valorHora;
+            //valorHora = Veiculo.retorna_ValorHora(maskedTextBox_Placa.Text, listaNaGaragem);
+            //valorCobrado = (double)(Math.Ceiling(intervalo.TotalHours)) * valorHora;
 
-            textBox_ResumoSaida.Text = "";
-            textBox_ResumoSaida.AppendText("Entrou às: " + dataHoraEntrada.ToString() + Environment.NewLine);
-            textBox_ResumoSaida.AppendText("Saiu às: " + dataHoraSaida + Environment.NewLine);
-            textBox_ResumoSaida.AppendText("Tempo: " + Convert.ToString(Math.Round(intervalo.TotalMinutes)) + " minutos" + Environment.NewLine);
-            textBox_ResumoSaida.AppendText("Tempo: " + Convert.ToString(Math.Ceiling(intervalo.TotalHours)) + " horas" + Environment.NewLine);
-            textBox_ResumoSaida.AppendText("A receber: " + Convert.ToString(Math.Ceiling(intervalo.TotalHours)) + " x " + valorHora.ToString("C") + " = " + valorCobrado.ToString("C") + Environment.NewLine);
-            textBox_ResumoSaida.AppendText("intervalo total: " + intervalo.ToString() + Environment.NewLine);
+            //textBox_ResumoSaida.Text = "";
+            //textBox_ResumoSaida.AppendText("Entrou às: " + dataHoraEntrada.ToString() + Environment.NewLine);
+            //textBox_ResumoSaida.AppendText("Saiu às: " + dataHoraSaida + Environment.NewLine);
+            //textBox_ResumoSaida.AppendText("Tempo: " + Convert.ToString(Math.Round(intervalo.TotalMinutes)) + " minutos" + Environment.NewLine);
+            //textBox_ResumoSaida.AppendText("Tempo: " + Convert.ToString(Math.Ceiling(intervalo.TotalHours)) + " horas" + Environment.NewLine);
+            //textBox_ResumoSaida.AppendText("A receber: " + Convert.ToString(Math.Ceiling(intervalo.TotalHours)) + " x " + valorHora.ToString("C") + " = " + valorCobrado.ToString("C") + Environment.NewLine);
+            //textBox_ResumoSaida.AppendText("intervalo total: " + intervalo.ToString() + Environment.NewLine);
 
-            btn_Saida.Enabled = true;
+            //btn_Saida.Enabled = true;
 
 
 
@@ -170,23 +170,23 @@ namespace Garagem
 
         private void btn_configuracao_Click(object sender, EventArgs e)
         {
-            bool validado = true;
-            if (textBox_Vagas.Text.Equals(""))
-            {
-                MessageBox.Show("Por favor, digite a quantidade de vagas que a garagem possui.", "Alerta");
-                validado = false;
-                return;
-            }
-            if (maskedTextBox_ValorHora.Text.Equals(""))
-            {
-                MessageBox.Show("Por favor, digite o valor da hora.", "Alerta");
-                validado = false;
-                return;
-            }
-            if (validado)
-            {
-               Configurar configurar = new Configurar(int.Parse(textBox_Vagas.Text), double.Parse(maskedTextBox_ValorHora.Text));
-               configurar.gravarConfiguracao();
+            //bool validado = true;
+            //if (textBox_Vagas.Text.Equals(""))
+            //{
+            //    MessageBox.Show("Por favor, digite a quantidade de vagas que a garagem possui.", "Alerta");
+            //    validado = false;
+            //    return;
+            //}
+            //if (maskedTextBox_ValorHora.Text.Equals(""))
+            //{
+            //    MessageBox.Show("Por favor, digite o valor da hora.", "Alerta");
+            //    validado = false;
+            //    return;
+            //}
+            //if (validado)
+            //{
+            //   Configurar configurar = new Configurar(int.Parse(textBox_Vagas.Text), double.Parse(maskedTextBox_ValorHora.Text));
+            //   configurar.gravarConfiguracao();
 
 
 
@@ -194,4 +194,3 @@ namespace Garagem
         }
     }
 
-}

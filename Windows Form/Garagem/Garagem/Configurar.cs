@@ -30,11 +30,11 @@ namespace Garagem
             escritor.Flush();
             escritor.Close();
 
-            StreamWriter escritor2 = new StreamWriter("entrada.dat");
-            escritor2.Close();
+            //StreamWriter escritor2 = new StreamWriter("entrada.dat");
+            //escritor2.Close();
 
-            StreamWriter escritor3 = new StreamWriter("saida.dat");
-            escritor3.Close();
+            //StreamWriter escritor3 = new StreamWriter("saida.dat");
+            //escritor3.Close();
 
             MessageBox.Show("Configuracao gravada com sucesso.", "Informativo:");
         }
