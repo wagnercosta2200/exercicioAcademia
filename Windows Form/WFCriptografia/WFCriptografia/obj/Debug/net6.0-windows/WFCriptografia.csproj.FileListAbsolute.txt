@@ -1,0 +1,17 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WFCriptografia\WFCriptografia\bin\Debug\net6.0-windows\WFCriptografia.exe
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WFCriptografia\WFCriptografia\bin\Debug\net6.0-windows\WFCriptografia.deps.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WFCriptografia\WFCriptografia\bin\Debug\net6.0-windows\WFCriptografia.runtimeconfig.json
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WFCriptografia\WFCriptografia\bin\Debug\net6.0-windows\WFCriptografia.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WFCriptografia\WFCriptografia\bin\Debug\net6.0-windows\WFCriptografia.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WFCriptografia\WFCriptografia\obj\Debug\net6.0-windows\WFCriptografia.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WFCriptografia\WFCriptografia\obj\Debug\net6.0-windows\WFCriptografia.Form1.resources
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WFCriptografia\WFCriptografia\obj\Debug\net6.0-windows\WFCriptografia.csproj.GenerateResource.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WFCriptografia\WFCriptografia\obj\Debug\net6.0-windows\WFCriptografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WFCriptografia\WFCriptografia\obj\Debug\net6.0-windows\WFCriptografia.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WFCriptografia\WFCriptografia\obj\Debug\net6.0-windows\WFCriptografia.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WFCriptografia\WFCriptografia\obj\Debug\net6.0-windows\WFCriptografia.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WFCriptografia\WFCriptografia\obj\Debug\net6.0-windows\WFCriptografia.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WFCriptografia\WFCriptografia\obj\Debug\net6.0-windows\refint\WFCriptografia.dll
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WFCriptografia\WFCriptografia\obj\Debug\net6.0-windows\WFCriptografia.pdb
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WFCriptografia\WFCriptografia\obj\Debug\net6.0-windows\WFCriptografia.genruntimeconfig.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WFCriptografia\WFCriptografia\obj\Debug\net6.0-windows\ref\WFCriptografia.dll
