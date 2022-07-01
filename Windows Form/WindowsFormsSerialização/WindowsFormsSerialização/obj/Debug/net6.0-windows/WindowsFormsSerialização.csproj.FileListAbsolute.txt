@@ -1,0 +1,7 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormsSerialização\WindowsFormsSerialização\obj\Debug\net6.0-windows\WindowsFormsSerialização.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormsSerialização\WindowsFormsSerialização\obj\Debug\net6.0-windows\WindowsFormsSerialização.Form1.resources
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormsSerialização\WindowsFormsSerialização\obj\Debug\net6.0-windows\WindowsFormsSerialização.csproj.GenerateResource.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormsSerialização\WindowsFormsSerialização\obj\Debug\net6.0-windows\WindowsFormsSerialização.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormsSerialização\WindowsFormsSerialização\obj\Debug\net6.0-windows\WindowsFormsSerialização.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormsSerialização\WindowsFormsSerialização\obj\Debug\net6.0-windows\WindowsFormsSerialização.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\Windows Form\WindowsFormsSerialização\WindowsFormsSerialização\obj\Debug\net6.0-windows\WindowsFormsSerialização.csproj.CoreCompileInputs.cache

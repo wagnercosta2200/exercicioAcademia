@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cLBKHbiISC2mj4GfmFOL2heRzR6EnuKoK962PjVyp0DeBgvgyo0jq6+C3iSkSAOdkWqSYUx36bE1GQ+59HwvQQ==",
+  "dgSpecHash": "q8+jChFxmK/R2/M3JkZI5FmeS0yVZFZK/iU4owbJbdTXcuqo8wrtB4b6Q1AjwZ1oC/SjmNc4UUpB37thjc0OmQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Wagner\\GitAcademia1\\exercicioAcademia\\Windows Form\\WindowsFormsSerialização\\WindowsFormsSerialização\\WindowsFormsSerialização.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Wagner\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Wagner\\.nuget\\packages\\soapformatter\\1.1.9\\soapformatter.1.1.9.nupkg.sha512"
+  ],
   "logs": []
 }
