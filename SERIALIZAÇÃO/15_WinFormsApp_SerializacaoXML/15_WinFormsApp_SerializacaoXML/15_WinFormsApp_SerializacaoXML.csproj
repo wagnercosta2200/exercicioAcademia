@@ -9,4 +9,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="SoapCore" Version="1.1.0.30" />
+    <PackageReference Include="SoapFormatter" Version="1.1.9" />
+  </ItemGroup>
+
 </Project>

@@ -4,15 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.Serialization.Formatters.Binary;
-using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Xml.Serialization;
+using System.Runtime.Serialization.Formatters.Soap;
+using Newtonsoft.Json;
 
 
 namespace _15_WinFormsApp_SerializacaoXML
 {
-    internal class Serializador
+    public class Serializador
     {
         public static void serializarXML(List<Paciente> lista, string dadosArquivo)
         {
@@ -50,6 +51,98 @@ namespace _15_WinFormsApp_SerializacaoXML
                     lista.Clear();
                     lista.AddRange((List<Paciente>)serializadorXML.Deserialize(procurador));
                 }
+
+                string resposta = "";
+                foreach (Paciente i in lista)
+                {
+                    resposta = resposta + i.Nome + "\n";
+                }
+
+                MessageBox.Show(resposta, "Alerta");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Erro: " + ex.Message);
+            }
+        }
+
+        public static void serializarSOAP(List<Paciente> lista, string dadosArquivo)
+        {
+            try
+            {
+                FileStream procurador = new FileStream(@dadosArquivo, FileMode.Create);
+
+                SoapFormatter serializadorSOAP = new SoapFormatter();
+
+                serializadorSOAP.Serialize(procurador, lista);
+                procurador.Close();
+
+                MessageBox.Show("Sucesso para serializar com XML", "Alerta");
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Erro: " + ex.Message);
+            }
+        }
+
+        public static void deserializarSOAP(List<Paciente> lista, string dadosArquivo)
+        {
+            try
+            {
+                using (var procurador = new FileStream(@dadosArquivo, FileMode.Open))
+                {
+                    SoapFormatter serializadorSOAP = new SoapFormatter();
+                    lista.Clear();
+                    lista.AddRange((List<Paciente>)serializadorSOAP.Deserialize(procurador));
+                }
+
+                string resposta = "";
+                foreach (Paciente i in lista)
+                {
+                    resposta = resposta + i.Nome + "\n";
+                }
+
+                MessageBox.Show(resposta, "Alerta");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Erro: " + ex.Message);
+            }
+        }
+
+        public static void serializarJSON(List<Paciente> lista, string dadosArquivo)
+        {
+            try
+            {
+                StreamWriter procurador = new StreamWriter(dadosArquivo);
+
+                JsonSerializer serializadorJSON = new JsonSerializer();
+                serializadorJSON.Formatting = Formatting.Indented;
+
+
+                JsonWriter escritorJSON = new JsonTextWriter(procurador);
+                serializadorJSON.Serialize(escritorJSON, lista);
+
+                procurador.Close();
+                escritorJSON.Close();
+
+                MessageBox.Show("Sucesso para serializar com JSON", "Alerta");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Erro: " + ex.Message);
+            }
+        }
+
+        public static void deserializarJSON(List<Paciente> lista, string dadosArquivo)
+        {
+            try
+            {
+                string json = File.ReadAllText(@dadosArquivo);
+                lista.Clear();
+
+                lista.AddRange(JsonConvert.DeserializeObject<List<Paciente>>(json));
 
                 string resposta = "";
                 foreach (Paciente i in lista)
