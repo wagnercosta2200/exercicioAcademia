@@ -154,6 +154,7 @@
             this.btn_CriptonEAS.TabIndex = 10;
             this.btn_CriptonEAS.Text = "Cripto EAS";
             this.btn_CriptonEAS.UseVisualStyleBackColor = false;
+            this.btn_CriptonEAS.Click += new System.EventHandler(this.btn_CriptonEAS_Click);
             // 
             // btn_DescriptonEAS
             // 
@@ -165,6 +166,7 @@
             this.btn_DescriptonEAS.TabIndex = 11;
             this.btn_DescriptonEAS.Text = "Descripto EAS";
             this.btn_DescriptonEAS.UseVisualStyleBackColor = false;
+            this.btn_DescriptonEAS.Click += new System.EventHandler(this.btn_DescriptonEAS_Click);
             // 
             // Form1
             // 

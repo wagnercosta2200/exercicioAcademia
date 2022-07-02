@@ -47,5 +47,15 @@ namespace WFCriptografia
             frase = s.DecryptData(fraseCripto, chave);
             lblDescripto.Text = frase;
         }
+
+        private void btn_CriptonEAS_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_DescriptonEAS_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
