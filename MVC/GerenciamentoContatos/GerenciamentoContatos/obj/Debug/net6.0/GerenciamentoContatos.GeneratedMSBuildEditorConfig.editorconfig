@@ -1,0 +1,100 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GerenciamentoContatos
+build_property.RootNamespace = GerenciamentoContatos
+build_property.ProjectDir = C:\Users\Wagner\GitAcademia1\exercicioAcademia\MVC\GerenciamentoContatos\GerenciamentoContatos\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Wagner\GitAcademia1\exercicioAcademia\MVC\GerenciamentoContatos\GerenciamentoContatos
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/ContatoModel/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b01vZGVsXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/ContatoModel/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b01vZGVsXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/ContatoModel/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b01vZGVsXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/ContatoModel/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b01vZGVsXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/ContatoModel/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b01vZGVsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/Contato/Apagar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xBcGFnYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/Contato/Criar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xDcmlhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/Contato/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xFZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/Contato/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/UsuarioModels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb01vZGVsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/UsuarioModels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb01vZGVsc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/UsuarioModels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb01vZGVsc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/UsuarioModels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb01vZGVsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/UsuarioModels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb01vZGVsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/GerenciamentoContatos/GerenciamentoContatos/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ayndvbqwai

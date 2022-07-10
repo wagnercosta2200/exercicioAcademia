@@ -24,4 +24,17 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
+
+
+
+
 app.Run();
+
+
+
+IMvcBuilder mvcBuilder = builder.Services.AddRazorPages()//quando salvar ele atualiza a pagina automaticamente
+    .AddRazorRuntimeCompilation();
+
+
+
+

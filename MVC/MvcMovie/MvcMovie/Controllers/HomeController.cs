@@ -18,6 +18,33 @@ namespace MvcMovie.Controllers
             return View();
         }
 
+        //cadastrar Pessoas
+        [HttpPost] //METODO que recebe a pessoa
+        public IActionResult Cadastrar(Pessoa p)
+        {
+            string nome = p.Nome;
+            string Cpf = p.Cpf;
+            //ViewData["nome"] = nome;
+            return View("Pessoa");
+        }
+        // ao clicar no btn cadatrar retorna pessoa
+        public IActionResult Pessoa(Pessoa p)
+        {
+            return View(p);
+        }
+
+        public IActionResult Sobre()
+        {
+
+            return View();
+        }
+
+        public IActionResult Cadastrar()
+        {
+           
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
