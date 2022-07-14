@@ -22,7 +22,7 @@ namespace SistemaCadastro.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
 
-            modelBuilder.Entity("SistemaCadastro.Models.Contato", b =>
+            modelBuilder.Entity("SistemaCadastro.Models.ContatoModel", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

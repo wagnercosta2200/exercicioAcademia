@@ -1,0 +1,5 @@
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\MVC\ConsoleAppTeste\ConsoleAppTeste\obj\Debug\net6.0\ConsoleAppTeste.csproj.AssemblyReference.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\MVC\ConsoleAppTeste\ConsoleAppTeste\obj\Debug\net6.0\ConsoleAppTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\MVC\ConsoleAppTeste\ConsoleAppTeste\obj\Debug\net6.0\ConsoleAppTeste.AssemblyInfoInputs.cache
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\MVC\ConsoleAppTeste\ConsoleAppTeste\obj\Debug\net6.0\ConsoleAppTeste.AssemblyInfo.cs
+C:\Users\Wagner\GitAcademia1\exercicioAcademia\MVC\ConsoleAppTeste\ConsoleAppTeste\obj\Debug\net6.0\ConsoleAppTeste.csproj.CoreCompileInputs.cache

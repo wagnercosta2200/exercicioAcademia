@@ -1,0 +1,41 @@
+﻿@model SistemaDeContatos.Models.ContatoModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class = "text -center">  
+    
+    <h1 ><mark> Detalhes </mark>  </h1>
+
+</div>
+
+
+<div>
+    <h4>Contato</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Celular)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Celular)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a class ="btn btn-secondary"  asp-action="Edit" asp-route-id="@Model?.Id">Editar</a> 
+    <a class ="btn btn-secondary" asp-action="Index">Listar</a>
+</div>

@@ -15,6 +15,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Wagner\GitAcademia1\exercicioAcademia\MVC\SistemaCadastro\SistemaCadastro
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/SistemaCadastro/SistemaCadastro/Views/ContatoModels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b01vZGVsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/SistemaCadastro/SistemaCadastro/Views/ContatoModels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b01vZGVsc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/SistemaCadastro/SistemaCadastro/Views/ContatoModels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b01vZGVsc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/SistemaCadastro/SistemaCadastro/Views/ContatoModels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b01vZGVsc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/SistemaCadastro/SistemaCadastro/Views/ContatoModels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b01vZGVsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Wagner/GitAcademia1/exercicioAcademia/MVC/SistemaCadastro/SistemaCadastro/Views/Contatos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
